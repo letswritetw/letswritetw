@@ -20,6 +20,6 @@ Here are some ideas to get you started:
       https://www.youtube.com/watch?v=ECuqb5Tv9qI
       https://github.com/marketplace/actions/blog-post-workflow
 -->
-# Let's Write 最新文章
+## Let's Write 最新文章
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

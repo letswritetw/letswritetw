@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '* 0 * * *'
+    - cron: '0 * * * *'
 
 jobs:
   update-readme-with-blog:
@@ -13,4 +13,3 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://letswrite.tw/feed/"
-          max_post_count: 10
