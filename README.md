@@ -23,16 +23,16 @@
 
 ## 加入社群
 <a href="https://t.me/letswritetw">
- <img src="https://imgur.com/0rp0uf9.png">
+ <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg">
 </a>
 <a href="https://www.facebook.com/letswrite.tw/">
- <img src="https://imgur.com/jroUPjj.png">
+ <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/facebook.svg">
 </a>
 <a href="https://www.instagram.com/letswrite.tw/">
- <img src="https://imgur.com/adJEGxF.png">
+ <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/instagram.svg">
 </a>
 <a href="https://twitter.com/letswrite_tw">
- <img src="https://imgur.com/z34RLhj.png">
+ <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/twitter.svg">
 </a>
 
 <!--
