@@ -5,11 +5,11 @@
 - [Let's Write](https://letswrite.tw)
 
 ## 加入社群
+[![Telegram](https://imgur.com/RvgV92X.png)](https://t.me/letswritetw)
+
 [![Facebook](https://imgur.com/jroUPjj.png)](https://www.facebook.com/letswrite.tw/)
 [![Instagram](https://imgur.com/adJEGxF.png)](https://www.instagram.com/letswrite.tw/)
 [![Twitter](https://imgur.com/z34RLhj.png)](https://twitter.com/letswrite_tw)
-
-[![Telegram](https://imgur.com/RvgV92X.png)](https://t.me/letswritetw)
 
 
 <!-- 訂閱 Let's Write RSS -->
