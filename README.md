@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 訂閱 Let's Write RSS -->
+<!-- 參考來源：
+      https://www.youtube.com/watch?v=ECuqb5Tv9qI
+      https://github.com/marketplace/actions/blog-post-workflow
+-->
+# Let's Write 最新文章
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
