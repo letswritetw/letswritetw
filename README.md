@@ -22,16 +22,16 @@
 - [Google表單，提交後系統自動寄送回覆通知email](https://letswrite.tw/gas-auto-epaper/)
 
 ## 加入社群
-<a href="https://t.me/letswritetw">
+<a target="_blank" href="https://t.me/letswritetw">
  <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg">
 </a>
-<a href="https://www.facebook.com/letswrite.tw/">
+<a target="_blank" href="https://www.facebook.com/letswrite.tw/">
  <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/facebook.svg">
 </a>
-<a href="https://www.instagram.com/letswrite.tw/">
+<a target="_blank" href="https://www.instagram.com/letswrite.tw/">
  <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/instagram.svg">
 </a>
-<a href="https://twitter.com/letswrite_tw">
+<a target="_blank" href="https://twitter.com/letswrite_tw">
  <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/twitter.svg">
 </a>
 
