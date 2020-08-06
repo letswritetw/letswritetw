@@ -1,14 +1,6 @@
 # Let's Write
 #### 前端工程師 Augustus 的學習筆記 — solving problems, in simple ways.
 
-## 官方網站
-- [Let's Write](https://letswrite.tw)
-
-## 加入社群
-[![Telegram](https://imgur.com/gs9wNsR.png)](https://t.me/letswritetw)
-[![Facebook](https://imgur.com/jroUPjj.png)](https://www.facebook.com/letswrite.tw/)
-[![Instagram](https://imgur.com/adJEGxF.png)](https://www.instagram.com/letswrite.tw/)
-[![Twitter](https://imgur.com/z34RLhj.png)](https://twitter.com/letswrite_tw)
 
 
 <!-- 訂閱 Let's Write RSS -->
@@ -28,6 +20,12 @@
 - [LINE Notify：用Google Apps Script，建立簡易網站監測機器人](https://letswrite.tw/line-notify-gas/)
 - [LINE Bot：用Google Apps Script，建立簡易網站監測機器人](https://letswrite.tw/line-bot-gas-monitor/)
 - [Google表單，提交後系統自動寄送回覆通知email](https://letswrite.tw/gas-auto-epaper/)
+
+## 加入社群
+[![Telegram](https://imgur.com/gs9wNsR.png)](https://t.me/letswritetw)
+[![Facebook](https://imgur.com/jroUPjj.png)](https://www.facebook.com/letswrite.tw/)
+[![Instagram](https://imgur.com/adJEGxF.png)](https://www.instagram.com/letswrite.tw/)
+[![Twitter](https://imgur.com/z34RLhj.png)](https://twitter.com/letswrite_tw)
 
 <!--
 **letswritetw/letswritetw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
