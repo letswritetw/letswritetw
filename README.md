@@ -1,7 +1,35 @@
 # Let's Write
 #### 前端工程師 Augustus 的學習筆記 — solving problems, in simple ways.
 
+## 加入社群
+<a href="https://t.me/letswritetw">
+ <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg">
+</a>
+<a href="https://www.facebook.com/letswrite.tw/">
+ <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/facebook.svg">
+</a>
+<a href="https://www.instagram.com/letswrite.tw/">
+ <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/instagram.svg">
+</a>
+<a href="https://twitter.com/letswrite_tw">
+ <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/twitter.svg">
+</a>
 
+<!--
+**letswritetw/letswritetw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- 訂閱 Let's Write RSS -->
 <!-- 參考來源：
