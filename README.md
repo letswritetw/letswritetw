@@ -1,7 +1,7 @@
 # Let's Write
 #### 前端工程師 Augustus 的學習筆記 — solving problems, in simple ways.
 
-## 加入社群
+## 🎉 加入社群
 [![Telegram](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg)](https://t.me/letswritetw)
 [![Facebook](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/facebook.svg)](https://www.facebook.com/letswrite.tw/)
 [![Instagram](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/instagram.svg)](https://www.instagram.com/letswrite.tw/)
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
       https://www.youtube.com/watch?v=ECuqb5Tv9qI
       https://github.com/marketplace/actions/blog-post-workflow
 -->
-## 最新文章
+## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
 - [Google表單，輸入ID後自動帶入其它欄位資料](https://letswrite.tw/google-forms-id-data/)
 - [LINE Bot：X-Line-Signature 簽名驗證 範例](https://letswrite.tw/line-signature/)
