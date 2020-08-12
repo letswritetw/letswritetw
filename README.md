@@ -1,7 +1,7 @@
 # Let's Write
 #### 前端工程師 Augustus 的學習筆記 — solving problems, in simple ways.
 
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fletswrite.tw%2F&amp;tabs&amp;width=340&amp;height=130&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId" width="340" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TtMOCXJ_6g8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 ## 加入社群
 [![Telegram](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg)](https://t.me/letswritetw)
