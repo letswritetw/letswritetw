@@ -2,18 +2,10 @@
 #### 前端工程師 Augustus 的學習筆記 — solving problems, in simple ways.
 
 ## 加入社群
-<a href="https://t.me/letswritetw">
- <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg">
-</a>
-<a href="https://www.facebook.com/letswrite.tw/">
- <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/facebook.svg">
-</a>
-<a href="https://www.instagram.com/letswrite.tw/">
- <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/instagram.svg">
-</a>
-<a href="https://twitter.com/letswrite_tw">
- <img src="https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/twitter.svg">
-</a>
+[![Telegram](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg)](https://t.me/letswritetw)
+[![Facebook](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/facebook.svg)](https://www.facebook.com/letswrite.tw/)
+[![Instagram](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/instagram.svg)](https://www.instagram.com/letswrite.tw/)
+[![Twitter](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/twitter.svg)](https://twitter.com/letswrite_tw)
 
 <!--
 **letswritetw/letswritetw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
