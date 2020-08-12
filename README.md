@@ -7,6 +7,10 @@
 [![Instagram](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/instagram.svg)](https://www.instagram.com/letswrite.tw/)
 [![Twitter](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/twitter.svg)](https://twitter.com/letswrite_tw)
 
+## 👑 開發機器人 - 生活小幫手
+[![Telegram](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg)](https://t.me/lifetifulBot)
+[![LINE](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/line.svg)](https://lin.ee/pZC7GGs)
+
 <!--
 **letswritetw/letswritetw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
