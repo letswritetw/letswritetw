@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 
-## 💻 Github 統計
-[![Let's Write github stats](https://github-readme-stats.vercel.app/api?username=letswritetw&show_icons=true&hide=contribs,prs&title_color=00BAFF&icon_color=008BBF&count_private=true)](https://github.com/letswritetw)
+## 🥁 Github 統計
+[![Let's Write github stats](https://github-readme-stats.vercel.app/api?username=letswritetw&show_icons=true&hide=contribs,prs&title_color=00BAFF&icon_color=008BBF)](https://github.com/letswritetw)
