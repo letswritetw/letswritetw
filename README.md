@@ -45,5 +45,3 @@ Here are some ideas to get you started:
 - [LINE Notify：用Google Apps Script，建立簡易網站監測機器人](https://letswrite.tw/line-notify-gas/)
 - [LINE Bot：用Google Apps Script，建立簡易網站監測機器人](https://letswrite.tw/line-bot-gas-monitor/)
 <!-- BLOG-POST-LIST:END -->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api ?username=letswritetw )](https://github.com/anuraghazra/github-readme-stats)
