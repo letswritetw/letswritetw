@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 - [LINE Bot：用Google Apps Script，建立簡易網站監測機器人](https://letswrite.tw/line-bot-gas-monitor/)
 <!-- BLOG-POST-LIST:END -->
 
----
 
-[![Let's Write github stats](https://github-readme-stats.vercel.app/api?username=letswritetw&show_icons=true&title_color=00BAFF)](https://github.com/letswritetw)
+## 💻 Github 統計
+[![Let's Write github stats](https://github-readme-stats.vercel.app/api?username=letswritetw&show_icons=true&hide=contribs,prs&title_color=00BAFF&icon_color=008BBF&count_private=true)](https://github.com/letswritetw)
