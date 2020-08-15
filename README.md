@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [第100篇：起點、轉折、then()](https://letswrite.tw/posts-100/)
 - [Google表單，輸入ID後自動帶入其它欄位資料](https://letswrite.tw/google-forms-id-data/)
 - [LINE Bot：X-Line-Signature 簽名驗證 範例](https://letswrite.tw/line-signature/)
 - [用 Storybook 做一個 UI 整理集](https://letswrite.tw/storybook-init/)
@@ -43,5 +44,4 @@ Here are some ideas to get you started:
 - [製作RWD email 工具：MJML，如何使用及注意事項](https://letswrite.tw/mjml-rwd-email/)
 - [LINE Notify：用Google Apps Script，建立簡易網站監測機器人](https://letswrite.tw/line-notify-gas/)
 - [LINE Bot：用Google Apps Script，建立簡易網站監測機器人](https://letswrite.tw/line-bot-gas-monitor/)
-- [Google表單，提交後系統自動寄送回覆通知email](https://letswrite.tw/gas-auto-epaper/)
 <!-- BLOG-POST-LIST:END -->
