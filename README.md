@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Google Optimize A/B Testing 使用筆記](https://letswrite.tw/optimize-ab-testing/)
 - [Firebase Cloud Functions 基本使用筆記](https://letswrite.tw/cloud-functions-init/)
 - [Firebase Cloud Firestore 常用功能筆記](https://letswrite.tw/cloud-firestore-init/)
 - [第100篇：起點、轉折、then()](https://letswrite.tw/posts-100/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [滿版圖片背景、影音背景](https://letswrite.tw/fullscreen-video-image/)
 - [TestCafe學習筆記-2：常用設定及功能](https://letswrite.tw/testcafe-settings/)
 - [TestCafe學習筆記-1：自動化測試會員登入](https://letswrite.tw/testcafe-member-login/)
-- [製作RWD email 工具：MJML，如何使用及注意事項](https://letswrite.tw/mjml-rwd-email/)
 <!-- BLOG-POST-LIST:END -->
 
 
