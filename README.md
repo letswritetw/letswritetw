@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Word、Excel 合併列印功能使用筆記](https://letswrite.tw/mail-merge/)
 - [Google Optimize A/B Testing 使用筆記](https://letswrite.tw/optimize-ab-testing/)
 - [LIFF v2 基本使用筆記及範例](https://letswrite.tw/liff-init/)
 - [用 GCP 建立 Cloud Functions](https://letswrite.tw/cloud-functions-gcp/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Firebase Cloud Functions 基本使用筆記](https://letswrite.tw/cloud-functions-init/)
 - [Firebase Cloud Firestore 常用功能筆記](https://letswrite.tw/cloud-firestore-init/)
 - [第100篇：起點、轉折、then()](https://letswrite.tw/posts-100/)
-- [Google表單，輸入ID後自動帶入其它欄位資料](https://letswrite.tw/google-forms-id-data/)
 <!-- BLOG-POST-LIST:END -->
 
 
