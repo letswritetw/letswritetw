@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Google Sheets 略過空白格重整資料](https://letswrite.tw/sheet-skip-space/)
 - [Word、Excel 合併列印功能使用筆記](https://letswrite.tw/mail-merge/)
 - [Google Optimize A/B Testing 使用筆記](https://letswrite.tw/optimize-ab-testing/)
 - [LIFF v2 基本使用筆記及範例](https://letswrite.tw/liff-init/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Google表單，提交後系統自動寄送回覆通知email](https://letswrite.tw/gas-auto-epaper/)
 - [Firebase Cloud Functions 基本使用筆記](https://letswrite.tw/cloud-functions-init/)
 - [Firebase Cloud Firestore 常用功能筆記](https://letswrite.tw/cloud-firestore-init/)
-- [第100篇：起點、轉折、then()](https://letswrite.tw/posts-100/)
 <!-- BLOG-POST-LIST:END -->
 
 
