@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [OpenStreetMap + Leaflet 學習筆記：建地圖、marker、事件、換圖層](https://letswrite.tw/leaflet-osm-basic/)
 - [Google Sheets 略過空白格重整資料](https://letswrite.tw/sheet-skip-space/)
 - [Word、Excel 合併列印功能使用筆記](https://letswrite.tw/mail-merge/)
 - [Google Optimize A/B Testing 使用筆記](https://letswrite.tw/optimize-ab-testing/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [用Vue.js製作圖片版EDM生成器](https://letswrite.tw/image-edm-build/)
 - [Google表單，提交後系統自動寄送回覆通知email](https://letswrite.tw/gas-auto-epaper/)
 - [Firebase Cloud Functions 基本使用筆記](https://letswrite.tw/cloud-functions-init/)
-- [Firebase Cloud Firestore 常用功能筆記](https://letswrite.tw/cloud-firestore-init/)
 <!-- BLOG-POST-LIST:END -->
 
 
