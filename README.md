@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [OpenStreetMap + Leaflet 學習筆記：建地圖、marker、事件、換圖層](https://letswrite.tw/leaflet-osm-basic/)
+- [OSM + Leaflet 學習筆記1：建地圖、marker、事件、換圖層](https://letswrite.tw/leaflet-osm-basic/)
 - [Google Sheets 略過空白格重整資料](https://letswrite.tw/sheet-skip-space/)
 - [Word、Excel 合併列印功能使用筆記](https://letswrite.tw/mail-merge/)
 - [Google Optimize A/B Testing 使用筆記](https://letswrite.tw/optimize-ab-testing/)
