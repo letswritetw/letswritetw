@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [如何用 Postman Mock Server 快速建立 API Server](https://letswrite.tw/postman-mock-server/)
 - [OSM + Leaflet 學習筆記2：移動中心點、抓目前地點](https://letswrite.tw/leaflet-osm-locate/)
 - [OSM + Leaflet 學習筆記1：建地圖、marker、事件、換圖層](https://letswrite.tw/leaflet-osm-basic/)
 - [Google Sheets 略過空白格重整資料](https://letswrite.tw/sheet-skip-space/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [用 GCP 建立 Cloud Functions](https://letswrite.tw/cloud-functions-gcp/)
 - [PWA學習筆記-6：實際使用整體流程範例](https://letswrite.tw/pwa-use/)
 - [用Vue.js製作圖片版EDM生成器](https://letswrite.tw/image-edm-build/)
-- [Google表單，提交後系統自動寄送回覆通知email](https://letswrite.tw/gas-auto-epaper/)
 <!-- BLOG-POST-LIST:END -->
 
 
