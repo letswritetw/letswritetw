@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Vue CLI 安裝 Tailwind CSS](https://letswrite.tw/vue-cli-tailwindcss/)
 - [如何用 Postman Mock Server 快速建立 API Server](https://letswrite.tw/postman-mock-server/)
 - [OSM + Leaflet 學習筆記2：移動中心點、抓目前地點](https://letswrite.tw/leaflet-osm-locate/)
 - [OSM + Leaflet 學習筆記1：建地圖、marker、事件、換圖層](https://letswrite.tw/leaflet-osm-basic/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [LIFF v2 基本使用筆記及範例](https://letswrite.tw/liff-init/)
 - [用 GCP 建立 Cloud Functions](https://letswrite.tw/cloud-functions-gcp/)
 - [PWA學習筆記-6：實際使用整體流程範例](https://letswrite.tw/pwa-use/)
-- [用Vue.js製作圖片版EDM生成器](https://letswrite.tw/image-edm-build/)
 <!-- BLOG-POST-LIST:END -->
 
 
