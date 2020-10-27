@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Google Apps Script 讀寫 Cloud Firestore 資料](https://letswrite.tw/gas-firestore/)
 - [在網頁上嵌入Telegram 頻道廣播訊息](https://letswrite.tw/telegram-post-widget/)
 - [Vue CLI 安裝 Tailwind CSS](https://letswrite.tw/vue-cli-tailwindcss/)
 - [如何用 Postman Mock Server 快速建立 API Server](https://letswrite.tw/postman-mock-server/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Word、Excel 合併列印功能使用筆記](https://letswrite.tw/mail-merge/)
 - [Google Optimize A/B Testing 使用筆記](https://letswrite.tw/optimize-ab-testing/)
 - [LIFF v2 基本使用筆記及範例](https://letswrite.tw/liff-init/)
-- [用 GCP 建立 Cloud Functions](https://letswrite.tw/cloud-functions-gcp/)
 <!-- BLOG-POST-LIST:END -->
 
 
