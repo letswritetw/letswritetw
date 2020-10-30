@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [如何用 MAMP 在本機安裝 WordPress](https://letswrite.tw/mamp-wordpress/)
 - [Google Apps Script 讀寫 Cloud Firestore 資料](https://letswrite.tw/gas-firestore/)
 - [在網頁上嵌入Telegram 頻道廣播訊息](https://letswrite.tw/telegram-post-widget/)
 - [Vue CLI 安裝 Tailwind CSS](https://letswrite.tw/vue-cli-tailwindcss/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Google Sheets 略過空白格重整資料](https://letswrite.tw/sheet-skip-space/)
 - [Word、Excel 合併列印功能使用筆記](https://letswrite.tw/mail-merge/)
 - [Google Optimize A/B Testing 使用筆記](https://letswrite.tw/optimize-ab-testing/)
-- [LIFF v2 基本使用筆記及範例](https://letswrite.tw/liff-init/)
 <!-- BLOG-POST-LIST:END -->
 
 
