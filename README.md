@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 Firebase Authentication 做一套簡易會員系統 – 電子郵件 密碼](https://letswrite.tw/firebase-auth-email/)
 - [用 Microsoft Clarity 網站分析工具，觀察使用者行為](https://letswrite.tw/microsoft-clarity/)
 - [如何用 MAMP 在本機安裝 WordPress](https://letswrite.tw/mamp-wordpress/)
 - [Google Apps Script 讀寫 Cloud Firestore 資料](https://letswrite.tw/gas-firestore/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [OSM + Leaflet 學習筆記2：移動中心點、抓目前地點](https://letswrite.tw/leaflet-osm-locate/)
 - [OSM + Leaflet 學習筆記1：建地圖、marker、事件、換圖層](https://letswrite.tw/leaflet-osm-basic/)
 - [Google Sheets 略過空白格重整資料](https://letswrite.tw/sheet-skip-space/)
-- [Word、Excel 合併列印功能使用筆記](https://letswrite.tw/mail-merge/)
 <!-- BLOG-POST-LIST:END -->
 
 
