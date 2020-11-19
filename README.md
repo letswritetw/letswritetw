@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 reCAPTCHA v3 來做非機器人驗證](https://letswrite.tw/recaptcha-v3/)
 - [用 reCAPTCHA v2 來做非機器人驗證](https://letswrite.tw/recaptcha-v2/)
 - [用 Firebase Authentication 做一套簡易會員系統 – 電子郵件 密碼](https://letswrite.tw/firebase-auth-email/)
 - [用 Microsoft Clarity 網站分析工具，觀察使用者行為](https://letswrite.tw/microsoft-clarity/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Vue CLI 安裝 Tailwind CSS](https://letswrite.tw/vue-cli-tailwindcss/)
 - [如何用 Postman Mock Server 快速建立 API Server](https://letswrite.tw/postman-mock-server/)
 - [OSM + Leaflet 學習筆記2：移動中心點、抓目前地點](https://letswrite.tw/leaflet-osm-locate/)
-- [OSM + Leaflet 學習筆記1：建地圖、marker、事件、換圖層](https://letswrite.tw/leaflet-osm-basic/)
 <!-- BLOG-POST-LIST:END -->
 
 
