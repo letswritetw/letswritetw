@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Vue CLI 安裝 Tailwind CSS](https://letswrite.tw/vue-cli-tailwindcss/)
 - [用 reCAPTCHA v3 來做非機器人驗證](https://letswrite.tw/recaptcha-v3/)
 - [用 reCAPTCHA v2 來做非機器人驗證](https://letswrite.tw/recaptcha-v2/)
 - [用 Firebase Authentication 做一套簡易會員系統 – 電子郵件 密碼](https://letswrite.tw/firebase-auth-email/)
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 - [如何用 MAMP 在本機安裝 WordPress](https://letswrite.tw/mamp-wordpress/)
 - [Google Apps Script 讀寫 Cloud Firestore 資料](https://letswrite.tw/gas-firestore/)
 - [在網頁上嵌入Telegram 頻道廣播訊息](https://letswrite.tw/telegram-post-widget/)
-- [Vue CLI 安裝 Tailwind CSS](https://letswrite.tw/vue-cli-tailwindcss/)
 - [如何用 Postman Mock Server 快速建立 API Server](https://letswrite.tw/postman-mock-server/)
 - [OSM + Leaflet 學習筆記2：移動中心點、抓目前地點](https://letswrite.tw/leaflet-osm-locate/)
 <!-- BLOG-POST-LIST:END -->
