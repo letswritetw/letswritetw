@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 GA Spreadsheet Add-on 製作網站訪客人數功能](https://letswrite.tw/ga-spreadsheet-add-on/)
 - [WordPress 基本介紹](https://letswrite.tw/wordpress-basic/)
 - [Vue CLI 安裝 Tailwind CSS](https://letswrite.tw/vue-cli-tailwindcss/)
 - [用 reCAPTCHA v3 來做非機器人驗證](https://letswrite.tw/recaptcha-v3/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [如何用 MAMP 在本機安裝 WordPress](https://letswrite.tw/mamp-wordpress/)
 - [Google Apps Script 讀寫 Cloud Firestore 資料](https://letswrite.tw/gas-firestore/)
 - [在網頁上嵌入Telegram 頻道廣播訊息](https://letswrite.tw/telegram-post-widget/)
-- [如何用 Postman Mock Server 快速建立 API Server](https://letswrite.tw/postman-mock-server/)
 <!-- BLOG-POST-LIST:END -->
 
 
