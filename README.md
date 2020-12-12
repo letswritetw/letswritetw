@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 CSS :target 製作頁籤、手風琴功能](https://letswrite.tw/css-target-tab-collapse/)
 - [用 GA Spreadsheet Add-on 製作網站訪客人數功能](https://letswrite.tw/ga-spreadsheet-add-on/)
 - [WordPress 基本介紹](https://letswrite.tw/wordpress-basic/)
 - [Vue CLI 安裝 Tailwind CSS](https://letswrite.tw/vue-cli-tailwindcss/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [用 Microsoft Clarity 網站分析工具，觀察使用者行為](https://letswrite.tw/microsoft-clarity/)
 - [如何用 MAMP 在本機安裝 WordPress](https://letswrite.tw/mamp-wordpress/)
 - [Google Apps Script 讀寫 Cloud Firestore 資料](https://letswrite.tw/gas-firestore/)
-- [在網頁上嵌入Telegram 頻道廣播訊息](https://letswrite.tw/telegram-post-widget/)
 <!-- BLOG-POST-LIST:END -->
 
 
