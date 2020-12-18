@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [VirtualBox + Ubuntu 20.04，Webmin + LAMP，安裝 WordPress – 1](https://letswrite.tw/ubuntu-wordpress-1/)
 - [一些有趣的 CSS 選擇器](https://letswrite.tw/css-selectors-2020/)
 - [用 CSS :target 製作頁籤、手風琴功能](https://letswrite.tw/css-target-tab-collapse/)
 - [用 GA Spreadsheet Add-on 製作網站訪客人數功能](https://letswrite.tw/ga-spreadsheet-add-on/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [用 reCAPTCHA v2 來做非機器人驗證](https://letswrite.tw/recaptcha-v2/)
 - [用 Firebase Authentication 做一套簡易會員系統 – 電子郵件 密碼](https://letswrite.tw/firebase-auth-email/)
 - [用 Microsoft Clarity 網站分析工具，觀察使用者行為](https://letswrite.tw/microsoft-clarity/)
-- [如何用 MAMP 在本機安裝 WordPress](https://letswrite.tw/mamp-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 
