@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [VirtualBox + Ubuntu 20.04，Webmin + LAMP，安裝 WordPress – 3](https://letswrite.tw/ubuntu-wordpress-3/)
-- [VirtualBox + Ubuntu 20.04，Webmin + LAMP，安裝 WordPress – 2](https://letswrite.tw/ubuntu-wordpress-2/)
-- [VirtualBox + Ubuntu 20.04，Webmin + LAMP，安裝 WordPress – 1](https://letswrite.tw/ubuntu-wordpress-1/)
+- [Ubuntu 安裝 WordPress – 3：VM、資料庫權限、PHP、WordPress](https://letswrite.tw/ubuntu-wordpress-3/)
+- [Ubuntu 安裝 WordPress – 2：Webmin、Apache、MySQL、Hosts](https://letswrite.tw/ubuntu-wordpress-2/)
+- [Ubuntu 安裝 WordPress – 1：VirtualBox、Ubuntu 20.04](https://letswrite.tw/ubuntu-wordpress-1/)
 - [一些有趣的 CSS 選擇器](https://letswrite.tw/css-selectors-2020/)
 - [用 CSS :target 製作頁籤、手風琴功能](https://letswrite.tw/css-target-tab-collapse/)
 - [用 GA Spreadsheet Add-on 製作網站訪客人數功能](https://letswrite.tw/ga-spreadsheet-add-on/)
