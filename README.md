@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 好用的會員相關外掛：登入安全性、會員系統](https://letswrite.tw/wordpress-member/)
 - [搭配 WooCommerce 的 2 個好用外掛：客製訂單、客製報表](https://letswrite.tw/woocommerce-check-report/)
 - [Ubuntu 安裝 WordPress – 3：VM、資料庫權限、PHP、WordPress](https://letswrite.tw/ubuntu-wordpress-3/)
 - [Ubuntu 安裝 WordPress – 2：Webmin、Apache、MySQL、Hosts](https://letswrite.tw/ubuntu-wordpress-2/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [用 GA Spreadsheet Add-on 製作網站訪客人數功能](https://letswrite.tw/ga-spreadsheet-add-on/)
 - [WordPress 基本介紹](https://letswrite.tw/wordpress-basic/)
 - [Vue CLI 安裝 Tailwind CSS](https://letswrite.tw/vue-cli-tailwindcss/)
-- [用 reCAPTCHA v3 來做非機器人驗證](https://letswrite.tw/recaptcha-v3/)
 <!-- BLOG-POST-LIST:END -->
 
 
