@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Login Widget，製作用 Telegram 登入功能](https://letswrite.tw/telegram-login-widget/)
 - [MacBook 用隨身碟執行 Windows 10：Windows To Go、WinToUSB](https://letswrite.tw/windows-to-go/)
 - [WordPress 好用的會員相關外掛：登入安全性、會員系統](https://letswrite.tw/wordpress-member/)
 - [搭配 WooCommerce 的 2 個好用外掛：客製訂單、客製報表](https://letswrite.tw/woocommerce-check-report/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [一些有趣的 CSS 選擇器](https://letswrite.tw/css-selectors-2020/)
 - [用 CSS :target 製作頁籤、手風琴功能](https://letswrite.tw/css-target-tab-collapse/)
 - [用 GA Spreadsheet Add-on 製作網站訪客人數功能](https://letswrite.tw/ga-spreadsheet-add-on/)
-- [WordPress 基本介紹](https://letswrite.tw/wordpress-basic/)
 <!-- BLOG-POST-LIST:END -->
 
 
