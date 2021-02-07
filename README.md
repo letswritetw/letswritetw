@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Google表單 用網址改變題目預設值](https://letswrite.tw/google-forms-default-answer/)
 - [Firebase Authentication 第三方登入 – Google、FB](https://letswrite.tw/firebase-auth-google-fb/)
 - [Telegram Login Widget，製作用 Telegram 登入功能](https://letswrite.tw/telegram-login-widget/)
 - [MacBook 用隨身碟執行 Windows 10：Windows To Go、WinToUSB](https://letswrite.tw/windows-to-go/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Ubuntu 安裝 WordPress – 2：Webmin、Apache、MySQL、Hosts](https://letswrite.tw/ubuntu-wordpress-2/)
 - [Ubuntu 安裝 WordPress – 1：VirtualBox、Ubuntu 20.04](https://letswrite.tw/ubuntu-wordpress-1/)
 - [一些有趣的 CSS 選擇器](https://letswrite.tw/css-selectors-2020/)
-- [用 CSS :target 製作頁籤、手風琴功能](https://letswrite.tw/css-target-tab-collapse/)
 <!-- BLOG-POST-LIST:END -->
 
 
