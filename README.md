@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 VuePress 製作說明文件頁面 – 1：安裝](https://www.letswrite.tw/vuepress-document-setup/)
 - [Day.js 計算最近7天、上週、上個月的日期](https://www.letswrite.tw/dayjs-last-week-month/)
 - [Instagram oEmbed 嵌入 IG 貼文](https://www.letswrite.tw/instagram-embed/)
 - [Google表單 用網址改變題目預設值](https://www.letswrite.tw/google-forms-default-answer/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [WordPress 好用的會員相關外掛：登入安全性、會員系統](https://www.letswrite.tw/wordpress-member/)
 - [搭配 WooCommerce 的 2 個好用外掛：客製訂單、客製報表](https://www.letswrite.tw/woocommerce-check-report/)
 - [Ubuntu 安裝 WordPress – 3：VM、資料庫權限、PHP、WordPress](https://www.letswrite.tw/ubuntu-wordpress-3/)
-- [Ubuntu 安裝 WordPress – 2：Webmin、Apache、MySQL、Hosts](https://www.letswrite.tw/ubuntu-wordpress-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
