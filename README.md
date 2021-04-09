@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 VuePress 製作說明文件頁面 – 5：改樣式、加元件](https://www.letswrite.tw/vuepress-document-style-component/)
 - [用 VuePress 製作說明文件頁面 – 4：佈景主題、外掛](https://www.letswrite.tw/vuepress-document-theme-plugin/)
 - [用 VuePress 製作說明文件頁面 – 3：導覽列](https://www.letswrite.tw/vuepress-document-nav/)
 - [用 VuePress 製作說明文件頁面 – 2：config.js 基本設定](https://www.letswrite.tw/vuepress-document-basic/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Google表單 用網址改變題目預設值](https://www.letswrite.tw/google-forms-default-answer/)
 - [Firebase Authentication 第三方登入 – Google、FB](https://www.letswrite.tw/firebase-auth-google-fb/)
 - [Telegram Login Widget，製作用 Telegram 登入功能](https://www.letswrite.tw/telegram-login-widget/)
-- [MacBook 用隨身碟執行 Windows 10：Windows To Go、WinToUSB](https://www.letswrite.tw/windows-to-go/)
 <!-- BLOG-POST-LIST:END -->
 
 
