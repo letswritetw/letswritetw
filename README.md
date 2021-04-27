@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Firebase Authentication 第三方登入 – GitHub](https://www.letswrite.tw/firebase-auth-github/)
 - [用 VuePress 製作說明文件頁面 – 6：部署](https://www.letswrite.tw/vuepress-document-deploy/)
 - [用 VuePress 製作說明文件頁面 – 5：改樣式、加元件](https://www.letswrite.tw/vuepress-document-style-component/)
 - [用 VuePress 製作說明文件頁面 – 4：佈景主題、外掛](https://www.letswrite.tw/vuepress-document-theme-plugin/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Day.js 計算最近7天、上週、上個月的日期](https://www.letswrite.tw/dayjs-last-week-month/)
 - [Instagram oEmbed 嵌入 IG 貼文](https://www.letswrite.tw/instagram-embed/)
 - [Google 表單 用網址改變題目預設值](https://www.letswrite.tw/google-forms-default-answer/)
-- [Firebase Authentication 第三方登入 – Google、FB](https://www.letswrite.tw/firebase-auth-google-fb/)
 <!-- BLOG-POST-LIST:END -->
 
 
