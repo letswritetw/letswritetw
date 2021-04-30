@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [GitHub API：取 Issue、Comments](https://www.letswrite.tw/github-api-issues-get/)
 - [Day.js 計算最近7天、上週、上個月的日期](https://www.letswrite.tw/dayjs-last-week-month/)
 - [Firebase Authentication 第三方登入 – GitHub](https://www.letswrite.tw/firebase-auth-github/)
 - [用 VuePress 製作說明文件頁面 – 6：部署](https://www.letswrite.tw/vuepress-document-deploy/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [用 VuePress 製作說明文件頁面 – 2：config.js 基本設定](https://www.letswrite.tw/vuepress-document-basic/)
 - [用 VuePress 製作說明文件頁面 – 1：安裝](https://www.letswrite.tw/vuepress-document-setup/)
 - [Instagram oEmbed 嵌入 IG 貼文](https://www.letswrite.tw/instagram-embed/)
-- [Google 表單 用網址改變題目預設值](https://www.letswrite.tw/google-forms-default-answer/)
 <!-- BLOG-POST-LIST:END -->
 
 
