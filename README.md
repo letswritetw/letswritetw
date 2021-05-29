@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Instagram 基本顯示 API ：抓取公開 IG 資料、相片、影片](https://www.letswrite.tw/instagram-basic-display-api/)
 - [GitHub API：建立 Issue、Comment – API、Personal access tokens](https://www.letswrite.tw/github-api-issue-create-personal-token/)
 - [GitHub API：取 Issue、Comments](https://www.letswrite.tw/github-api-issues-get/)
 - [Day.js 計算最近7天、上週、上個月的日期](https://www.letswrite.tw/dayjs-last-week-month/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [用 VuePress 製作說明文件頁面 – 4：佈景主題、外掛](https://www.letswrite.tw/vuepress-document-theme-plugin/)
 - [用 VuePress 製作說明文件頁面 – 3：導覽列](https://www.letswrite.tw/vuepress-document-nav/)
 - [用 VuePress 製作說明文件頁面 – 2：config.js 基本設定](https://www.letswrite.tw/vuepress-document-basic/)
-- [用 VuePress 製作說明文件頁面 – 1：安裝](https://www.letswrite.tw/vuepress-document-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 
