@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Vue.js 3 Composition API 基本學習筆記-1：Ref、Props、watch、生命週期](https://www.letswrite.tw/vue3-composition-api/)
 - [用原生 JS 做一個簡單的手風琴 Accordion / Collapse 功能](https://www.letswrite.tw/js-collapse-accordion/)
 - [如何用 Mockoon 快速建立 Mock APIs Server](https://www.letswrite.tw/mockoon/)
 - [用 JavaScript 將 JSON 轉為 CSV 檔下載](https://www.letswrite.tw/json-to-csv/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [GitHub API：取 Issue、Comments](https://www.letswrite.tw/github-api-issues-get/)
 - [Day.js 計算最近7天、上週、上個月的日期](https://www.letswrite.tw/dayjs-last-week-month/)
 - [Firebase Authentication 第三方登入 – GitHub](https://www.letswrite.tw/firebase-auth-github/)
-- [用 VuePress 製作說明文件頁面 – 6：部署](https://www.letswrite.tw/vuepress-document-deploy/)
 <!-- BLOG-POST-LIST:END -->
 
 
