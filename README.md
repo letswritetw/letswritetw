@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [如何用 Netlify CMS 製作電子報生成器](https://www.letswrite.tw/netlify-cms-edm/)
 - [幾個方便開發的 Console API 應用](https://www.letswrite.tw/console-api/)
 - [Vue.js 3 Composition API 基本學習筆記-2：fetch data、export / import](https://www.letswrite.tw/vue3-composition-api-import/)
 - [Vue.js 3 Composition API 基本學習筆記-1：Ref、Props、watch、生命週期](https://www.letswrite.tw/vue3-composition-api/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [GitHub API：建立 Issue、Comment – GitHub App](https://www.letswrite.tw/github-api-issue-create-app/)
 - [Instagram 基本顯示 API ：抓取公開 IG 資料、相片、影片](https://www.letswrite.tw/instagram-basic-display-api/)
 - [GitHub API：建立 Issue、Comment – API、Personal access tokens](https://www.letswrite.tw/github-api-issue-create-personal-token/)
-- [GitHub API：取 Issue、Comments](https://www.letswrite.tw/github-api-issues-get/)
 <!-- BLOG-POST-LIST:END -->
 
 
