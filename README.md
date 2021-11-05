@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 JavaScript 監聽頁面 / 頁籤被關閉的事件](https://www.letswrite.tw/beforeunload/)
 - [如何用 Google Sheets / Excel 當作資料庫](https://www.letswrite.tw/google-excel-db/)
 - [2 種快速安裝、使用 Tailwind CSS 的方式](https://www.letswrite.tw/tailwindcss-install/)
 - [如何用 Netlify CMS 製作電子報生成器](https://www.letswrite.tw/netlify-cms-edm/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [用原生 JS 做一個簡單的手風琴 Accordion / Collapse 功能](https://www.letswrite.tw/js-collapse-accordion/)
 - [如何用 Mockoon 快速建立 Mock APIs Server](https://www.letswrite.tw/mockoon/)
 - [用 JavaScript 將 JSON 轉為 CSV 檔下載](https://www.letswrite.tw/json-to-csv/)
-- [GitHub API：建立 Issue、Comment – GitHub App](https://www.letswrite.tw/github-api-issue-create-app/)
 <!-- BLOG-POST-LIST:END -->
 
 
