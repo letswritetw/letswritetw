@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Firebase Realtime Database 常用功能筆記](https://www.letswrite.tw/firebase-realtime/)
 - [Firebase Authentication 第三方登入 – GitHub](https://www.letswrite.tw/firebase-auth-github/)
 - [Firebase Authentication 第三方登入 – Google、FB](https://www.letswrite.tw/firebase-auth-google-fb/)
 - [用 JavaScript 監聽頁面 / 頁籤被關閉的事件](https://www.letswrite.tw/beforeunload/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [幾個方便開發的 Console API 應用](https://www.letswrite.tw/console-api/)
 - [Vue.js 3 Composition API 基本學習筆記-2：fetch data、export / import](https://www.letswrite.tw/vue3-composition-api-import/)
 - [Vue.js 3 Composition API 基本學習筆記-1：Ref、Props、watch、生命週期](https://www.letswrite.tw/vue3-composition-api/)
-- [用原生 JS 做一個簡單的手風琴 Accordion / Collapse 功能](https://www.letswrite.tw/js-collapse-accordion/)
 <!-- BLOG-POST-LIST:END -->
 
 
