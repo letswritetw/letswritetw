@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [CustomEvent 客製一個 addEventListener](https://www.letswrite.tw/custom-event/)
 - [用 Day.js 把秒數轉換為時間](https://www.letswrite.tw/dayjs-seconds-format/)
 - [前端 POST 檔案後，用 Node.js 把檔案傳上 FTP](https://www.letswrite.tw/nodejs-ftp-upload/)
 - [Firebase Realtime Database 常用功能筆記](https://www.letswrite.tw/firebase-realtime/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [如何用 Google Sheets / Excel 當作資料庫](https://www.letswrite.tw/google-excel-db/)
 - [2 種快速安裝、使用 Tailwind CSS 的方式](https://www.letswrite.tw/tailwindcss-install/)
 - [如何用 Netlify CMS 製作電子報生成器](https://www.letswrite.tw/netlify-cms-edm/)
-- [幾個方便開發的 Console API 應用](https://www.letswrite.tw/console-api/)
 <!-- BLOG-POST-LIST:END -->
 
 
