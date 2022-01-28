@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [改變 iframe src 時不增加瀏覽歷史紀錄](https://www.letswrite.tw/iframe-src-history/)
 - [Firebase Cloud Firestore V9 常用功能筆記](https://www.letswrite.tw/cloud-firestore-init-v9/)
 - [CustomEvent 客製一個 addEventListener](https://www.letswrite.tw/custom-event/)
 - [用 Day.js 把秒數轉換為時間](https://www.letswrite.tw/dayjs-seconds-format/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Firebase Authentication 第三方登入 – Google、FB](https://www.letswrite.tw/firebase-auth-google-fb/)
 - [用 JavaScript 監聽頁面 / 頁籤被關閉的事件](https://www.letswrite.tw/beforeunload/)
 - [如何用 Google Sheets / Excel 當作資料庫](https://www.letswrite.tw/google-excel-db/)
-- [2 種快速安裝、使用 Tailwind CSS 的方式](https://www.letswrite.tw/tailwindcss-install/)
 <!-- BLOG-POST-LIST:END -->
 
 
