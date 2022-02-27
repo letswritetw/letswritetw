@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 Google Sheets 取得電子報中點擊回覆結果](https://www.letswrite.tw/google-sheets-edm-reply/)
 - [改變 iframe src 時不增加瀏覽歷史紀錄](https://www.letswrite.tw/iframe-src-history/)
 - [Firebase Cloud Firestore V9 常用功能筆記](https://www.letswrite.tw/cloud-firestore-init-v9/)
 - [CustomEvent 客製一個 addEventListener](https://www.letswrite.tw/custom-event/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Firebase Authentication 第三方登入 – GitHub](https://www.letswrite.tw/firebase-auth-github/)
 - [Firebase Authentication 第三方登入 – Google、FB](https://www.letswrite.tw/firebase-auth-google-fb/)
 - [用 JavaScript 監聽頁面 / 頁籤被關閉的事件](https://www.letswrite.tw/beforeunload/)
-- [如何用 Google Sheets / Excel 當作資料庫](https://www.letswrite.tw/google-excel-db/)
 <!-- BLOG-POST-LIST:END -->
 
 
