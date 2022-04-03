@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 Google Sheets 紀錄表單資料](https://www.letswrite.tw/sheets-post-data/)
 - [GA4 事件：GA3 事件轉移，及如何查看完整事件報表](https://www.letswrite.tw/ga4-use-ga3-event/)
 - [用 Google Sheets 取得電子報中點擊回覆結果](https://www.letswrite.tw/google-sheets-edm-reply/)
 - [改變 iframe src 時不增加瀏覽歷史紀錄](https://www.letswrite.tw/iframe-src-history/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [前端 POST 檔案後，用 Node.js 把檔案傳上 FTP](https://www.letswrite.tw/nodejs-ftp-upload/)
 - [Firebase Realtime Database 常用功能筆記](https://www.letswrite.tw/firebase-realtime/)
 - [Firebase Authentication 第三方登入 – GitHub](https://www.letswrite.tw/firebase-auth-github/)
-- [Firebase Authentication 第三方登入 – Google、FB](https://www.letswrite.tw/firebase-auth-google-fb/)
 <!-- BLOG-POST-LIST:END -->
 
 
