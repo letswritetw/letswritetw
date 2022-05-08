@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Google Apps Script 抓 RSS 資料](https://www.letswrite.tw/gas-rss/)
 - [GA3、GA4 的 6 個不同之處](https://www.letswrite.tw/ga3-ga4-diff/)
 - [用 Google Sheets 紀錄表單資料](https://www.letswrite.tw/sheets-post-data/)
 - [GA4 事件：GA3 事件轉移，及如何查看完整事件報表](https://www.letswrite.tw/ga4-use-ga3-event/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [CustomEvent 客製一個 addEventListener](https://www.letswrite.tw/custom-event/)
 - [用 Day.js 把秒數轉換為時間](https://www.letswrite.tw/dayjs-seconds-format/)
 - [前端 POST 檔案後，用 Node.js 把檔案傳上 FTP](https://www.letswrite.tw/nodejs-ftp-upload/)
-- [Firebase Realtime Database 常用功能筆記](https://www.letswrite.tw/firebase-realtime/)
 <!-- BLOG-POST-LIST:END -->
 
 
