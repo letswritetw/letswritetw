@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Video.js 使用筆記：中文介面、取值、事件、改樣式](https://www.letswrite.tw/video-js-player/)
 - [Google Apps Script 抓 RSS 資料](https://www.letswrite.tw/gas-rss/)
 - [GA3、GA4 的 6 個不同之處](https://www.letswrite.tw/ga3-ga4-diff/)
 - [用 Google Sheets 紀錄表單資料](https://www.letswrite.tw/sheets-post-data/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Firebase Cloud Firestore V9 常用功能筆記](https://www.letswrite.tw/cloud-firestore-init-v9/)
 - [CustomEvent 客製一個 addEventListener](https://www.letswrite.tw/custom-event/)
 - [用 Day.js 把秒數轉換為時間](https://www.letswrite.tw/dayjs-seconds-format/)
-- [前端 POST 檔案後，用 Node.js 把檔案傳上 FTP](https://www.letswrite.tw/nodejs-ftp-upload/)
 <!-- BLOG-POST-LIST:END -->
 
 
