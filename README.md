@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [表單驗證：中文姓名、身分證、手機條碼、生日、信箱、手機、選擇縣市](https://www.letswrite.tw/form-validation/)
 - [用原生 JavaScript 做一個簡單的抽獎功能頁面](https://www.letswrite.tw/simple-lottery/)
 - [Hugo 學習筆記](https://www.letswrite.tw/hugo-basic/)
 - [YAML 基本使用筆記](https://www.letswrite.tw/yaml-basic/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [GA3、GA4 的 6 個不同之處](https://www.letswrite.tw/ga3-ga4-diff/)
 - [用 Google Sheets 紀錄表單資料](https://www.letswrite.tw/sheets-post-data/)
 - [GA4 事件：GA3 事件轉移，及如何查看完整事件報表](https://www.letswrite.tw/ga4-use-ga3-event/)
-- [用 Google Sheets 取得電子報中點擊回覆結果](https://www.letswrite.tw/google-sheets-edm-reply/)
 <!-- BLOG-POST-LIST:END -->
 
 
