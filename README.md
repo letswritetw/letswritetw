@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [製作一個 Hugo + Tailwind CSS 初始檔](https://www.letswrite.tw/hugo-tailwindcss-init/)
 - [CLI 學習筆記](https://www.letswrite.tw/cli-basic/)
 - [表單驗證：中文姓名、身分證、手機條碼、生日、信箱、手機、選擇縣市](https://www.letswrite.tw/form-validation/)
 - [用原生 JavaScript 做一個簡單的抽獎功能頁面](https://www.letswrite.tw/simple-lottery/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Video.js 使用筆記：中文介面、取值、事件、改樣式](https://www.letswrite.tw/video-js-player/)
 - [Google Apps Script 抓 RSS 資料](https://www.letswrite.tw/gas-rss/)
 - [GA3、GA4 的 6 個不同之處](https://www.letswrite.tw/ga3-ga4-diff/)
-- [用 Google Sheets 紀錄表單資料](https://www.letswrite.tw/sheets-post-data/)
 <!-- BLOG-POST-LIST:END -->
 
 
