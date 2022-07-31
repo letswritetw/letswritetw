@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [OSM + Leaflet 學習筆記 3：定位、全螢幕、小地圖、列印、客製選單](https://www.letswrite.tw/leaflet-plugins/)
 - [Javascript，XML 轉 JSON](https://www.letswrite.tw/xml-to-json/)
 - [OSM + Leaflet 學習筆記 2：移動中心點、抓目前地點](https://www.letswrite.tw/leaflet-osm-locate/)
 - [OSM + Leaflet 學習筆記 1：建地圖、marker、事件、換圖層](https://www.letswrite.tw/leaflet-osm-basic/)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [用原生 JavaScript 做一個簡單的抽獎功能頁面](https://www.letswrite.tw/simple-lottery/)
 - [Hugo 學習筆記](https://www.letswrite.tw/hugo-basic/)
 - [YAML 基本使用筆記](https://www.letswrite.tw/yaml-basic/)
-- [Plyr 播放器使用筆記：控制項、取值、事件、改樣式、外部平台影片](https://www.letswrite.tw/plyr-player/)
 <!-- BLOG-POST-LIST:END -->
 
 
