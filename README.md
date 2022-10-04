@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 JavaScript 做一個 Tooltips 功能](https://www.letswrite.tw/js-tooltips/)
 - [做一個簡單的網頁截圖功能](https://www.letswrite.tw/web-to-image/)
 - [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
 - [Color Thief 找出圖片裡的顏色](https://www.letswrite.tw/color-thief/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [OSM + Leaflet 學習筆記 1：建地圖、marker、事件、換圖層](https://www.letswrite.tw/leaflet-osm-basic/)
 - [製作一個 Hugo + Tailwind CSS 初始檔](https://www.letswrite.tw/hugo-tailwindcss-init/)
 - [CLI 學習筆記](https://www.letswrite.tw/cli-basic/)
-- [表單驗證：中文姓名、身分證、手機條碼、生日、信箱、手機、選擇縣市](https://www.letswrite.tw/form-validation/)
 <!-- BLOG-POST-LIST:END -->
 
 
