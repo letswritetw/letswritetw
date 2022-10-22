@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [瀏覽器上的儲存空間：Cookie](https://www.letswrite.tw/client-storage-cookie/)
 - [用 Pusher 製作網站推播 Web Push 功能](https://www.letswrite.tw/puhser-web-push/)
 - [CryptoJS 用前端加密、解密](https://www.letswrite.tw/crypto-js/)
 - [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [OSM + Leaflet 學習筆記 3：定位、全螢幕、小地圖、列印、客製選單](https://www.letswrite.tw/leaflet-plugins/)
 - [Javascript，XML 轉 JSON](https://www.letswrite.tw/xml-to-json/)
 - [OSM + Leaflet 學習筆記 2：移動中心點、抓目前地點](https://www.letswrite.tw/leaflet-osm-locate/)
-- [OSM + Leaflet 學習筆記 1：建地圖、marker、事件、換圖層](https://www.letswrite.tw/leaflet-osm-basic/)
 <!-- BLOG-POST-LIST:END -->
 
 
