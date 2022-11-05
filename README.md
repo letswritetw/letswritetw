@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 HTML 的 capture 屬性，開啟手機鏡頭進行拍照、錄影](https://www.letswrite.tw/html-capture/)
 - [瀏覽器上的儲存空間：Cookie](https://www.letswrite.tw/client-storage-cookie/)
 - [用 Pusher 製作網站推播 Web Push 功能](https://www.letswrite.tw/puhser-web-push/)
 - [CryptoJS 用前端加密、解密](https://www.letswrite.tw/crypto-js/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [Color Thief 找出圖片裡的顏色](https://www.letswrite.tw/color-thief/)
 - [OSM + Leaflet 學習筆記 3：定位、全螢幕、小地圖、列印、客製選單](https://www.letswrite.tw/leaflet-plugins/)
 - [Javascript，XML 轉 JSON](https://www.letswrite.tw/xml-to-json/)
-- [OSM + Leaflet 學習筆記 2：移動中心點、抓目前地點](https://www.letswrite.tw/leaflet-osm-locate/)
 <!-- BLOG-POST-LIST:END -->
 
 
