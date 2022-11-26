@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 OneDev 在本機架 Git Server 功能](https://www.letswrite.tw/local-git-onedev/)
 - [瀏覽器上的儲存空間：sessionStorage、localStorage](https://www.letswrite.tw/client-storage-local/)
 - [用 HTML 的 capture 屬性，開啟手機鏡頭進行拍照、錄影](https://www.letswrite.tw/html-capture/)
 - [瀏覽器上的儲存空間：Cookie](https://www.letswrite.tw/client-storage-cookie/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [用 JavaScript 做一個 Tooltips 功能](https://www.letswrite.tw/js-tooltips/)
 - [做一個簡單的網頁截圖功能](https://www.letswrite.tw/web-to-image/)
 - [Color Thief 找出圖片裡的顏色](https://www.letswrite.tw/color-thief/)
-- [OSM + Leaflet 學習筆記 3：定位、全螢幕、小地圖、列印、客製選單](https://www.letswrite.tw/leaflet-plugins/)
 <!-- BLOG-POST-LIST:END -->
 
 
