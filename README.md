@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Google Sheets API，在 Google Apps Script 上的好用部份](https://www.letswrite.tw/google-sheets-api/)
 - [用 OneDev 在本機架 Git Server 功能](https://www.letswrite.tw/local-git-onedev/)
 - [瀏覽器上的儲存空間：sessionStorage、localStorage](https://www.letswrite.tw/client-storage-local/)
 - [用 HTML 的 capture 屬性，開啟手機鏡頭進行拍照、錄影](https://www.letswrite.tw/html-capture/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
 - [用 JavaScript 做一個 Tooltips 功能](https://www.letswrite.tw/js-tooltips/)
 - [做一個簡單的網頁截圖功能](https://www.letswrite.tw/web-to-image/)
-- [Color Thief 找出圖片裡的顏色](https://www.letswrite.tw/color-thief/)
 <!-- BLOG-POST-LIST:END -->
 
 
