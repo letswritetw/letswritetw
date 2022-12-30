@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [瀏覽器上的儲存空間：IndexedDB](https://www.letswrite.tw/client-storage-idb/)
 - [Google Sheets API，在 Google Apps Script 上的好用部份](https://www.letswrite.tw/google-sheets-api/)
 - [用 OneDev 在本機架 Git Server 功能](https://www.letswrite.tw/local-git-onedev/)
 - [瀏覽器上的儲存空間：sessionStorage、localStorage](https://www.letswrite.tw/client-storage-local/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [CryptoJS 用前端加密、解密](https://www.letswrite.tw/crypto-js/)
 - [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
 - [用 JavaScript 做一個 Tooltips 功能](https://www.letswrite.tw/js-tooltips/)
-- [做一個簡單的網頁截圖功能](https://www.letswrite.tw/web-to-image/)
 <!-- BLOG-POST-LIST:END -->
 
 
