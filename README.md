@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [PWA學習筆記-6：實際使用整體流程範例](https://www.letswrite.tw/pwa-use/)
+- [PWA 學習筆記 – 4：manifest.json](https://www.letswrite.tw/pwa-manifest/)
 - [瀏覽器上的儲存空間：IndexedDB](https://www.letswrite.tw/client-storage-idb/)
 - [Google Sheets API，在 Google Apps Script 上的好用部份](https://www.letswrite.tw/google-sheets-api/)
 - [用 OneDev 在本機架 Git Server 功能](https://www.letswrite.tw/local-git-onedev/)
@@ -39,8 +41,6 @@ Here are some ideas to get you started:
 - [瀏覽器上的儲存空間：Cookie](https://www.letswrite.tw/client-storage-cookie/)
 - [用 Pusher 製作網站推播 Web Push 功能](https://www.letswrite.tw/puhser-web-push/)
 - [CryptoJS 用前端加密、解密](https://www.letswrite.tw/crypto-js/)
-- [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
-- [用 JavaScript 做一個 Tooltips 功能](https://www.letswrite.tw/js-tooltips/)
 <!-- BLOG-POST-LIST:END -->
 
 
