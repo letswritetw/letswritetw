@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [PWA學習筆記-6：實際使用整體流程範例](https://www.letswrite.tw/pwa-use/)
+- [2023 年 1 月第 3 週](https://www.letswrite.tw/news-2023-1-3/)
+- [PWA學習筆記 – 6：實際使用整體流程範例](https://www.letswrite.tw/pwa-use/)
 - [PWA 學習筆記 – 4：manifest.json](https://www.letswrite.tw/pwa-manifest/)
 - [瀏覽器上的儲存空間：IndexedDB](https://www.letswrite.tw/client-storage-idb/)
 - [Google Sheets API，在 Google Apps Script 上的好用部份](https://www.letswrite.tw/google-sheets-api/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [用 HTML 的 capture 屬性，開啟手機鏡頭進行拍照、錄影](https://www.letswrite.tw/html-capture/)
 - [瀏覽器上的儲存空間：Cookie](https://www.letswrite.tw/client-storage-cookie/)
 - [用 Pusher 製作網站推播 Web Push 功能](https://www.letswrite.tw/puhser-web-push/)
-- [CryptoJS 用前端加密、解密](https://www.letswrite.tw/crypto-js/)
 <!-- BLOG-POST-LIST:END -->
 
 
