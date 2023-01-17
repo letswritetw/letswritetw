@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
-- [2023 年 1 月第 3 週](https://www.letswrite.tw/news-2023-1-3/)
+- [2023 年 1 月第 3 週 – Morning Brew、me.dm、認知戰、CSIS 兵推、咖啡、Icon Bolt](https://www.letswrite.tw/news-2023-1-3/)
 - [PWA學習筆記 – 6：實際使用整體流程範例](https://www.letswrite.tw/pwa-use/)
 - [PWA 學習筆記 – 4：manifest.json](https://www.letswrite.tw/pwa-manifest/)
 - [瀏覽器上的儲存空間：IndexedDB](https://www.letswrite.tw/client-storage-idb/)
