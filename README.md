@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [VS Code Pets，一邊寫程式一邊養隻療癒小寵物吧](https://www.letswrite.tw/vscode-pets/)
 - [2023 年 1 月第 5 週 – AI 創作、低程式碼市場、網路安全、ES6、廚餘機、FRP、Maps 街景](https://www.letswrite.tw/news-2023-1-5/)
 - [2023 年 1 月第 4 週 – UX 註冊表單、ChatGPT、AI、JS 調查、俄烏、G7、WEF](https://www.letswrite.tw/news-2023-1-4/)
 - [2023 年 1 月第 3 週 – Morning Brew、me.dm、認知戰、CSIS 兵推、咖啡、Icon Bolt](https://www.letswrite.tw/news-2023-1-3/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [Google Sheets API，在 Google Apps Script 上的好用部份](https://www.letswrite.tw/google-sheets-api/)
 - [用 OneDev 在本機架 Git Server 功能](https://www.letswrite.tw/local-git-onedev/)
 - [瀏覽器上的儲存空間：sessionStorage、localStorage](https://www.letswrite.tw/client-storage-local/)
-- [用 HTML 的 capture 屬性，開啟手機鏡頭進行拍照、錄影](https://www.letswrite.tw/html-capture/)
 <!-- BLOG-POST-LIST:END -->
 
 
