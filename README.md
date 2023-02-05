@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [2023 年 2 月第 1 週 – iRent 個資外洩、AI、Claude、Futurepedia、龍橋認知戰、俄烏、緬甸、2027、文字效果、UI/UX、RWD](https://www.letswrite.tw/news-2023-2-1/)
 - [VS Code Pets，一邊寫程式一邊養隻療癒小寵物吧](https://www.letswrite.tw/vscode-pets/)
 - [2023 年 1 月第 5 週 – AI 創作、低程式碼市場、網路安全、ES6、廚餘機、FRP、Maps 街景](https://www.letswrite.tw/news-2023-1-5/)
 - [2023 年 1 月第 4 週 – UX 註冊表單、ChatGPT、AI、JS 調查、俄烏、G7、WEF](https://www.letswrite.tw/news-2023-1-4/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [瀏覽器上的儲存空間：IndexedDB](https://www.letswrite.tw/client-storage-idb/)
 - [Google Sheets API，在 Google Apps Script 上的好用部份](https://www.letswrite.tw/google-sheets-api/)
 - [用 OneDev 在本機架 Git Server 功能](https://www.letswrite.tw/local-git-onedev/)
-- [瀏覽器上的儲存空間：sessionStorage、localStorage](https://www.letswrite.tw/client-storage-local/)
 <!-- BLOG-POST-LIST:END -->
 
 
