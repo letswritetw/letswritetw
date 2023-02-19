@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [2023 年 2 月第 3 週 – IE、AI、Cloudflare、通膨及網紅](https://www.letswrite.tw/news-2023-2-3/)
 - [2023 年 2 月第 2 週 – Bard、裁員及 AI、星巴克 Web3、佐藤堂、配色、土敘強震、國際、通勤、截圖](https://www.letswrite.tw/news-2023-2-2/)
 - [簡單的網頁截圖功能 – DOM to Image](https://www.letswrite.tw/dom-to-image/)
 - [2023 年 2 月第 1 週 – iRent 個資外洩、AI、Claude、Futurepedia、龍橋認知戰、俄烏、緬甸、2027、文字效果、UI/UX、RWD](https://www.letswrite.tw/news-2023-2-1/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [2023 年 1 月第 3 週 – Morning Brew、me.dm、認知戰、CSIS 兵推、咖啡、Icon Bolt](https://www.letswrite.tw/news-2023-1-3/)
 - [PWA學習筆記 – 6：實際使用整體流程範例](https://www.letswrite.tw/pwa-use/)
 - [PWA 學習筆記 – 4：manifest.json](https://www.letswrite.tw/pwa-manifest/)
-- [瀏覽器上的儲存空間：IndexedDB](https://www.letswrite.tw/client-storage-idb/)
 <!-- BLOG-POST-LIST:END -->
 
 
