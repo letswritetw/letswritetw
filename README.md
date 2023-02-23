@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [2023 年 2 月第 3 週 – IE、AI、Cloudflare、通膨及網紅](https://www.letswrite.tw/news-2023-2-3/)
 - [2023 年 2 月第 2 週 – Bard、裁員及 AI、星巴克 Web3、佐藤堂、配色、土敘強震、國際、通勤、截圖](https://www.letswrite.tw/news-2023-2-2/)
-- [使用 JavaScript 將 DOM 轉換為圖像 – DOM to Image 教學](https://www.letswrite.tw/dom-to-image/)
+- [簡單的網頁截圖功能 – DOM to Image](https://www.letswrite.tw/dom-to-image/)
 - [2023 年 2 月第 1 週 – iRent 個資外洩、AI、Claude、Futurepedia、龍橋認知戰、俄烏、緬甸、2027、文字效果、UI/UX、RWD](https://www.letswrite.tw/news-2023-2-1/)
 - [VS Code Pets，一邊寫程式一邊養隻療癒小寵物吧](https://www.letswrite.tw/vscode-pets/)
 - [2023 年 1 月第 5 週 – AI 創作、低程式碼市場、網路安全、ES6、廚餘機、FRP、Maps 街景](https://www.letswrite.tw/news-2023-1-5/)
 - [2023 年 1 月第 4 週 – UX 註冊表單、ChatGPT、AI、JS 調查、俄烏、G7、WEF](https://www.letswrite.tw/news-2023-1-4/)
 - [2023 年 1 月第 3 週 – Morning Brew、me.dm、認知戰、CSIS 兵推、咖啡、Icon Bolt](https://www.letswrite.tw/news-2023-1-3/)
-- [PWA學習筆記 – 6：實際使用整體流程範例](https://www.letswrite.tw/pwa-use/)
-- [PWA 學習筆記 – 4：manifest.json](https://www.letswrite.tw/pwa-manifest/)
+- [如何使用 PWA 技術打造優秀的 Web App？](https://www.letswrite.tw/pwa-use/)
+- [使用 Manifest 創建你的 PWA – 基礎 Progressive Web App 教學](https://www.letswrite.tw/pwa-manifest/)
 <!-- BLOG-POST-LIST:END -->
 
 
