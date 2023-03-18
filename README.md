@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [2023 年 3 月第 3 週 – GPT4、Copilot、OpenChatKit、P92、Messenger、LLaMA、SVB、TikTok、IG](https://www.letswrite.tw/news-2023-3-3/)
 - [2023 年 3 月第 1 週 – ChatGPT API、LLaMA、Bing、Bluesky、HEIC、美國國務卿採訪、Tainwind CSS](https://www.letswrite.tw/news-2023-3-1/)
 - [HEIC 格式的圖片怎麼辦？使用 heic2any.js 轉換為 JPEG 或 PNG](https://www.letswrite.tw/heic2any/)
 - [2023 年 2 月第 4 週 –詠唱、AI、StatiCrypt、MSC、Meta、UX、週休三日、Penpot、Raycast](https://www.letswrite.tw/news-2023-2-4/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [2023 年 2 月第 1 週 – iRent 個資外洩、AI、Claude、Futurepedia、龍橋認知戰、俄烏、緬甸、2027、文字效果、UI/UX、RWD](https://www.letswrite.tw/news-2023-2-1/)
 - [VS Code Pets，一邊寫程式一邊養隻療癒小寵物吧](https://www.letswrite.tw/vscode-pets/)
 - [2023 年 1 月第 5 週 – AI 創作、低程式碼市場、網路安全、ES6、廚餘機、FRP、Maps 街景](https://www.letswrite.tw/news-2023-1-5/)
-- [2023 年 1 月第 4 週 – UX 註冊表單、ChatGPT、AI、JS 調查、俄烏、G7、WEF](https://www.letswrite.tw/news-2023-1-4/)
 <!-- BLOG-POST-LIST:END -->
 
 
