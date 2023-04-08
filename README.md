@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [2023 年 4 月第 2 週 – 芬蘭北約、AI、GPT-5、義大利、Midjourney、歐盟、Nokia、Apple、微軟、SVB](https://www.letswrite.tw/news-2023-4-2/)
 - [受保護的內容: 用 Google Apps Script 製作 LINE ChatGPT 機器人](https://www.letswrite.tw/gas-line-chapgpt/)
 - [2023 年 3 月第 4 週 – Web 3.0、OpenXLA、Loop、Copilot X、ChatGPT、災難性暖化、瑞信銀行、Adobe Firefly](https://www.letswrite.tw/news-2023-3-4/)
 - [2023 年 3 月第 3 週 – GPT4、Copilot、OpenChatKit、P92、Messenger、LLaMA、SVB、TikTok、IG](https://www.letswrite.tw/news-2023-3-3/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [2023 年 2 月第 3 週 – IE、AI、Cloudflare、通膨及網紅](https://www.letswrite.tw/news-2023-2-3/)
 - [2023 年 2 月第 2 週 – Bard、裁員及 AI、星巴克 Web3、佐藤堂、配色、土敘強震、國際、通勤、截圖](https://www.letswrite.tw/news-2023-2-2/)
 - [簡單的網頁截圖功能 – DOM to Image](https://www.letswrite.tw/dom-to-image/)
-- [2023 年 2 月第 1 週 – iRent 個資外洩、AI、Claude、Futurepedia、龍橋認知戰、俄烏、緬甸、2027、文字效果、UI/UX、RWD](https://www.letswrite.tw/news-2023-2-1/)
 <!-- BLOG-POST-LIST:END -->
 
 
