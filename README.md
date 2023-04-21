@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
 - [免費建立一個自己的網站 – WordPress + Cloudflare Pages](https://www.letswrite.tw/wordpress-cloudflare/)
 - [受保護的內容: 用 Google Apps Script 製作 LINE ChatGPT 機器人](https://www.letswrite.tw/gas-line-chapgpt/)
 - [HEIC 格式的圖片怎麼辦？使用 heic2any.js 轉換為 JPEG 或 PNG](https://www.letswrite.tw/heic2any/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [使用 Manifest 創建你的 PWA – 基礎 Progressive Web App 教學](https://www.letswrite.tw/pwa-manifest/)
 - [使用 IndexedDB 實現 Client 端數據存儲 – 前端工程師必學的 Web Storage 技術（第三篇）](https://www.letswrite.tw/client-storage-idb/)
 - [Google Sheets API，在 Google Apps Script 上的好用部份](https://www.letswrite.tw/google-sheets-api/)
-- [用 OneDev 在本機架 Git Server 功能](https://www.letswrite.tw/local-git-onedev/)
 <!-- BLOG-POST-LIST:END -->
 
 
