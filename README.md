@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [簡單的網頁截圖功能 – DOM to Image](https://www.letswrite.tw/dom-to-image/)
 - [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
 - [免費建立一個自己的網站 – WordPress + Cloudflare Pages](https://www.letswrite.tw/wordpress-cloudflare/)
 - [受保護的內容: 用 Google Apps Script 製作 LINE ChatGPT 機器人](https://www.letswrite.tw/gas-line-chapgpt/)
 - [HEIC 格式的圖片怎麼辦？使用 heic2any.js 轉換為 JPEG 或 PNG](https://www.letswrite.tw/heic2any/)
-- [簡單的網頁截圖功能 – DOM to Image](https://www.letswrite.tw/dom-to-image/)
 - [VS Code Pets，一邊寫程式一邊養隻療癒小寵物吧](https://www.letswrite.tw/vscode-pets/)
 - [如何使用 PWA 技術打造優秀的 Web App？](https://www.letswrite.tw/pwa-use/)
 - [使用 Manifest 創建你的 PWA – 基礎 Progressive Web App 教學](https://www.letswrite.tw/pwa-manifest/)
