@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 Gitea 在本機架 Git Server 功能](https://www.letswrite.tw/local-git-gitea/)
 - [簡單的網頁截圖功能 – DOM to Image](https://www.letswrite.tw/dom-to-image/)
 - [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
 - [免費建立一個自己的網站 – WordPress + Cloudflare Pages](https://www.letswrite.tw/wordpress-cloudflare/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [如何使用 PWA 技術打造優秀的 Web App？](https://www.letswrite.tw/pwa-use/)
 - [使用 Manifest 創建你的 PWA – 基礎 Progressive Web App 教學](https://www.letswrite.tw/pwa-manifest/)
 - [使用 IndexedDB 實現 Client 端數據存儲 – 前端工程師必學的 Web Storage 技術（第三篇）](https://www.letswrite.tw/client-storage-idb/)
-- [Google Sheets API，在 Google Apps Script 上的好用部份](https://www.letswrite.tw/google-sheets-api/)
 <!-- BLOG-POST-LIST:END -->
 
 
