@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 Docker 安裝 Verdaccio，建立本機私有 npm](https://www.letswrite.tw/docker-verdaccio-npm/)
 - [用 Google Apps Script，定期備份 Postman](https://www.letswrite.tw/gas-backup-postman/)
 - [用 Gitea 在本機架 Git Server 功能](https://www.letswrite.tw/local-git-gitea/)
 - [簡單的網頁截圖功能 – DOM to Image](https://www.letswrite.tw/dom-to-image/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [HEIC 格式的圖片怎麼辦？使用 heic2any.js 轉換為 JPEG 或 PNG](https://www.letswrite.tw/heic2any/)
 - [VS Code Pets，一邊寫程式一邊養隻療癒小寵物吧](https://www.letswrite.tw/vscode-pets/)
 - [如何使用 PWA 技術打造優秀的 Web App？](https://www.letswrite.tw/pwa-use/)
-- [使用 Manifest 創建你的 PWA – 基礎 Progressive Web App 教學](https://www.letswrite.tw/pwa-manifest/)
 <!-- BLOG-POST-LIST:END -->
 
 
