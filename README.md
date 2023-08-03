@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [開源免費，在 Netlify 上安裝 Primo CMS，輕鬆製作網頁](https://www.letswrite.tw/primo-cms/)
 - [用 Docker 安裝 Verdaccio，建立本機私有 npm](https://www.letswrite.tw/docker-verdaccio-npm/)
 - [用 Google Apps Script，定期備份 Postman](https://www.letswrite.tw/gas-backup-postman/)
 - [用 Gitea 在本機架 Git Server 功能](https://www.letswrite.tw/local-git-gitea/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [受保護的內容: 用 Google Apps Script 製作 LINE ChatGPT 機器人](https://www.letswrite.tw/gas-line-chapgpt/)
 - [HEIC 格式的圖片怎麼辦？使用 heic2any.js 轉換為 JPEG 或 PNG](https://www.letswrite.tw/heic2any/)
 - [VS Code Pets，一邊寫程式一邊養隻療癒小寵物吧](https://www.letswrite.tw/vscode-pets/)
-- [如何使用 PWA 技術打造優秀的 Web App？](https://www.letswrite.tw/pwa-use/)
 <!-- BLOG-POST-LIST:END -->
 
 
