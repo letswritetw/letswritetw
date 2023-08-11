@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 Postman Integrations，自動備份 Postman Collection](https://www.letswrite.tw/postman-integrations-backup/)
 - [開源免費，在 Netlify 上安裝 Primo CMS，輕鬆製作網頁](https://www.letswrite.tw/primo-cms/)
 - [用 Docker 安裝 Verdaccio，建立本機私有 npm](https://www.letswrite.tw/docker-verdaccio-npm/)
 - [用 Google Apps Script，定期備份 Postman](https://www.letswrite.tw/gas-backup-postman/)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 - [免費建立一個自己的網站 – WordPress + Cloudflare Pages](https://www.letswrite.tw/wordpress-cloudflare/)
 - [受保護的內容: 用 Google Apps Script 製作 LINE ChatGPT 機器人](https://www.letswrite.tw/gas-line-chapgpt/)
 - [HEIC 格式的圖片怎麼辦？使用 heic2any.js 轉換為 JPEG 或 PNG](https://www.letswrite.tw/heic2any/)
-- [VS Code Pets，一邊寫程式一邊養隻療癒小寵物吧](https://www.letswrite.tw/vscode-pets/)
 <!-- BLOG-POST-LIST:END -->
 
 
