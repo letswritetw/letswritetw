@@ -6,7 +6,6 @@
 
 ## 👑 開發機器人 - 生活小幫手
 [![Telegram](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg)](https://t.me/lifetifulBot)
-[![LINE](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/line.svg)](https://lin.ee/pZC7GGs)
 
 <!--
 **letswritetw/letswritetw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +30,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [DOMPurify，增加網站對 XSS 攻擊的防護力](https://www.letswrite.tw/dompurify/)
 - [用 Google Apps Script，定時從 GitHub、GitLab 取出備份檔並匯入 Postman](https://www.letswrite.tw/gas-import-postman-collections/)
 - [用 Postman Integrations，自動備份 Postman Collection](https://www.letswrite.tw/postman-integrations-backup/)
 - [開源免費，在 Netlify 上安裝 Primo CMS，輕鬆製作網頁](https://www.letswrite.tw/primo-cms/)
@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 - [簡單的網頁截圖功能 – DOM to Image](https://www.letswrite.tw/dom-to-image/)
 - [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
 - [免費建立一個自己的網站 – WordPress + Cloudflare Pages](https://www.letswrite.tw/wordpress-cloudflare/)
-- [受保護的內容: 用 Google Apps Script 製作 LINE ChatGPT 機器人](https://www.letswrite.tw/gas-line-chapgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 
