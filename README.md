@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [無程式碼，如何用 Make，把 Google Forms 當作發送 LINE Notify 的後台](https://www.letswrite.tw/make-form-line/)
+- [Web Workers 調用 API，減輕主執行緒負擔](https://www.letswrite.tw/web-workers/)
 - [DOMPurify，增加網站對 XSS 攻擊的防護力](https://www.letswrite.tw/dompurify/)
 - [用 Google Apps Script，定時從 GitHub、GitLab 取出備份檔並匯入 Postman](https://www.letswrite.tw/gas-import-postman-collections/)
 - [用 Postman Integrations，自動備份 Postman Collection](https://www.letswrite.tw/postman-integrations-backup/)
