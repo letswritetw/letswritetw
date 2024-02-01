@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [GitLab Pages：3 + 3 個步驟讓 GitLab 專案產生靜態頁](https://www.letswrite.tw/gitlab-pages/)
+- [免費開源的語音辨識功能：Google Colab + Faster Whisper](https://www.letswrite.tw/colab-faster-whisper/)
+- [免費開源的語音辨識功能：Google Colab + Whisper large v3](https://www.letswrite.tw/colab-whisper-large-v3/)
 - [無程式碼，如何用 Make，把 Google Forms 當作發送 LINE Notify 的後台](https://www.letswrite.tw/make-form-line/)
 - [Web Workers 調用 API，減輕主執行緒負擔](https://www.letswrite.tw/web-workers/)
 - [DOMPurify，增加網站對 XSS 攻擊的防護力](https://www.letswrite.tw/dompurify/)
@@ -37,11 +40,6 @@ Here are some ideas to get you started:
 - [用 Postman Integrations，自動備份 Postman Collection](https://www.letswrite.tw/postman-integrations-backup/)
 - [開源免費，在 Netlify 上安裝 Primo CMS，輕鬆製作網頁](https://www.letswrite.tw/primo-cms/)
 - [用 Docker 安裝 Verdaccio，建立本機私有 npm](https://www.letswrite.tw/docker-verdaccio-npm/)
-- [用 Google Apps Script，定期備份 Postman](https://www.letswrite.tw/gas-backup-postman/)
-- [用 Gitea 在本機架 Git Server 功能](https://www.letswrite.tw/local-git-gitea/)
-- [簡單的網頁截圖功能 – DOM to Image](https://www.letswrite.tw/dom-to-image/)
-- [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
-- [免費建立一個自己的網站 – WordPress + Cloudflare Pages](https://www.letswrite.tw/wordpress-cloudflare/)
 <!-- BLOG-POST-LIST:END -->
 
 
