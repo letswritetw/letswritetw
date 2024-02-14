@@ -30,16 +30,16 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB 學習筆記 – MongoDB Shell：CRUD 中的 Read](https://www.letswrite.tw/mongosh-find/)
+- [MongoDB 學習筆記 – Mac 上用 Docker 安裝 MongoDB Community](https://www.letswrite.tw/mongodb-mac-docker-install/)
 - [GitLab Pages：3 + 3 個步驟讓 GitLab 專案產生靜態頁](https://www.letswrite.tw/gitlab-pages/)
+- [ML5.js 神經網路 開發圖像辨識](https://www.letswrite.tw/ml5-image-classifier/)
 - [免費開源的語音辨識功能：Google Colab + Faster Whisper](https://www.letswrite.tw/colab-faster-whisper/)
 - [免費開源的語音辨識功能：Google Colab + Whisper large v3](https://www.letswrite.tw/colab-whisper-large-v3/)
 - [無程式碼，如何用 Make，把 Google Forms 當作發送 LINE Notify 的後台](https://www.letswrite.tw/make-form-line/)
 - [Web Workers 調用 API，減輕主執行緒負擔](https://www.letswrite.tw/web-workers/)
 - [DOMPurify，增加網站對 XSS 攻擊的防護力](https://www.letswrite.tw/dompurify/)
 - [用 Google Apps Script，定時從 GitHub、GitLab 取出備份檔並匯入 Postman](https://www.letswrite.tw/gas-import-postman-collections/)
-- [用 Postman Integrations，自動備份 Postman Collection](https://www.letswrite.tw/postman-integrations-backup/)
-- [開源免費，在 Netlify 上安裝 Primo CMS，輕鬆製作網頁](https://www.letswrite.tw/primo-cms/)
-- [用 Docker 安裝 Verdaccio，建立本機私有 npm](https://www.letswrite.tw/docker-verdaccio-npm/)
 <!-- BLOG-POST-LIST:END -->
 
 
