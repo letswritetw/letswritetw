@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB 學習筆記 – 用 Node.js 執行 CRUD](https://www.letswrite.tw/mongodb-node-crud/)
 - [MongoDB 學習筆記 – MongoDB Shell：CRUD 中的 Delete、Update](https://www.letswrite.tw/mongosh-delete-update/)
 - [MongoDB 學習筆記 – MongoDB Shell：CRUD 中的 Read](https://www.letswrite.tw/mongosh-find/)
 - [MongoDB 學習筆記 – Mac 上用 Docker 安裝 MongoDB Community](https://www.letswrite.tw/mongodb-mac-docker-install/)
@@ -39,7 +40,6 @@ Here are some ideas to get you started:
 - [免費開源的語音辨識功能：Google Colab + Whisper large v3](https://www.letswrite.tw/colab-whisper-large-v3/)
 - [無程式碼，如何用 Make，把 Google Forms 當作發送 LINE Notify 的後台](https://www.letswrite.tw/make-form-line/)
 - [Web Workers 調用 API，減輕主執行緒負擔](https://www.letswrite.tw/web-workers/)
-- [DOMPurify，增加網站對 XSS 攻擊的防護力](https://www.letswrite.tw/dompurify/)
 <!-- BLOG-POST-LIST:END -->
 
 
