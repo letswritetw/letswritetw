@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [用 TensorFlow.js COCO-SSD 辨識圖片物件](https://www.letswrite.tw/coco-ssd/)
 - [Windows 上，本機用 Docker 安裝 GitLab](https://www.letswrite.tw/windows-docker-gitlab/)
 - [MongoDB 學習筆記 – 用 Node.js 執行 CRUD](https://www.letswrite.tw/mongodb-node-crud/)
 - [MongoDB 學習筆記 – MongoDB Shell：CRUD 中的 Delete、Update](https://www.letswrite.tw/mongosh-delete-update/)
@@ -39,7 +40,6 @@ Here are some ideas to get you started:
 - [ML5.js 神經網路 開發圖像辨識](https://www.letswrite.tw/ml5-image-classifier/)
 - [免費開源的語音辨識功能：Google Colab + Faster Whisper](https://www.letswrite.tw/colab-faster-whisper/)
 - [免費開源的語音辨識功能：Google Colab + Whisper large v3](https://www.letswrite.tw/colab-whisper-large-v3/)
-- [無程式碼，如何用 Make，把 Google Forms 當作發送 LINE Notify 的後台](https://www.letswrite.tw/make-form-line/)
 <!-- BLOG-POST-LIST:END -->
 
 
