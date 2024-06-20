@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 -->
 ## 🎖 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
 - [用 TensorFlow.js COCO-SSD 辨識圖片物件](https://www.letswrite.tw/coco-ssd/)
 - [Windows 上，本機用 Docker 安裝 GitLab](https://www.letswrite.tw/windows-docker-gitlab/)
 - [MongoDB 學習筆記 – 用 Node.js 執行 CRUD](https://www.letswrite.tw/mongodb-node-crud/)
@@ -39,7 +40,6 @@ Here are some ideas to get you started:
 - [GitLab Pages：3 + 3 個步驟讓 GitLab 專案產生靜態頁](https://www.letswrite.tw/gitlab-pages/)
 - [ML5.js 神經網路 開發圖像辨識](https://www.letswrite.tw/ml5-image-classifier/)
 - [免費開源的語音辨識功能：Google Colab + Faster Whisper](https://www.letswrite.tw/colab-faster-whisper/)
-- [免費開源的語音辨識功能：Google Colab + Whisper large v3](https://www.letswrite.tw/colab-whisper-large-v3/)
 <!-- BLOG-POST-LIST:END -->
 
 
