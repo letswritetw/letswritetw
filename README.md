@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [CodiumAI PR-Agent，在 GitHub 上用 AI 來 Code Review](https://www.letswrite.tw/github-ai-code-review/)
 - [CodiumAI PR-Agent，在 GitLab 上用 AI 來 Code Review](https://www.letswrite.tw/gitlab-ai-code-review/)
 - [免費開源的語音辨識功能：Cloudflare Workers AI + Whisper](https://www.letswrite.tw/cloudflare-workers-ai-whisper/)
 - [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 - [MongoDB 學習筆記 – MongoDB Shell：CRUD 中的 Delete、Update](https://www.letswrite.tw/mongosh-delete-update/)
 - [MongoDB 學習筆記 – MongoDB Shell：CRUD 中的 Read](https://www.letswrite.tw/mongosh-find/)
 - [MongoDB 學習筆記 – Mac 上用 Docker 安裝 MongoDB Community](https://www.letswrite.tw/mongodb-mac-docker-install/)
-- [GitLab Pages：3 + 3 個步驟讓 GitLab 專案產生靜態頁](https://www.letswrite.tw/gitlab-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🥁 Github 統計
