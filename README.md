@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [使用 AI 自動生成 Git Commit 訊息](https://www.letswrite.tw/ai-git-commit/)
 - [CodiumAI PR-Agent，在 GitHub 上用 AI 來 Code Review](https://www.letswrite.tw/github-ai-code-review/)
 - [CodiumAI PR-Agent，在 GitLab 上用 AI 來 Code Review](https://www.letswrite.tw/gitlab-ai-code-review/)
 - [免費開源的語音辨識功能：Cloudflare Workers AI + Whisper](https://www.letswrite.tw/cloudflare-workers-ai-whisper/)
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 - [MongoDB 學習筆記 – 用 Node.js 執行 CRUD](https://www.letswrite.tw/mongodb-node-crud/)
 - [MongoDB 學習筆記 – MongoDB Shell：CRUD 中的 Delete、Update](https://www.letswrite.tw/mongosh-delete-update/)
 - [MongoDB 學習筆記 – MongoDB Shell：CRUD 中的 Read](https://www.letswrite.tw/mongosh-find/)
-- [MongoDB 學習筆記 – Mac 上用 Docker 安裝 MongoDB Community](https://www.letswrite.tw/mongodb-mac-docker-install/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🥁 Github 統計
