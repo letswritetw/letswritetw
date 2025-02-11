@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [使用 Ollama + Ngrok 搭建本地 LLM，遠端存取 AI 模型教學](https://www.letswrite.tw/ollama-ngrok/)
 - [使用 AI 自動生成 Git Commit 訊息](https://www.letswrite.tw/ai-git-commit/)
 - [CodiumAI PR-Agent，在 GitHub 上用 AI 來 Code Review](https://www.letswrite.tw/github-ai-code-review/)
 - [CodiumAI PR-Agent，在 GitLab 上用 AI 來 Code Review](https://www.letswrite.tw/gitlab-ai-code-review/)
