@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 
 - [使用 Google Apps Script 串接 Google Analytics API，整合多站數據](https://www.letswrite.tw/ga-api/)
+- [監聽 localStorage 事件：如何在同一頁面內偵測變更](https://www.letswrite.tw/localstorage-event/)
 - [使用 Ollama + Ngrok 搭建本地 LLM，遠端存取 AI 模型教學](https://www.letswrite.tw/ollama-ngrok/)
 - [使用 AI 自動生成 Git Commit 訊息](https://www.letswrite.tw/ai-git-commit/)
 - [CodiumAI PR-Agent，在 GitHub 上用 AI 來 Code Review](https://www.letswrite.tw/github-ai-code-review/)
