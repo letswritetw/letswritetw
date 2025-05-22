@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Windows 上，本機用 Docker 安裝 GitLab](https://www.letswrite.tw/windows-docker-gitlab/)
+- [iPhone 的語音辨識功能：語音備忘錄，自動標點分段](https://www.letswrite.tw/iphone-voice-memos/)
 - [GitHub Copilot + Figma MCP Server 實戰：用 AI 快速切版教學](https://www.letswrite.tw/github-copilot-figma-mcp/)
 - [使用 Google Apps Script 串接 Google Analytics API，整合多站數據](https://www.letswrite.tw/ga-api/)
 - [監聽 localStorage 事件：如何在同一頁面內偵測變更](https://www.letswrite.tw/localstorage-event/)
