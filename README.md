@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 
+- [使用 Docker 搭配 Node.js 快速建置 Redis 快取系統](https://www.letswrite.tw/docker-redis/)
+- [用 Docker 快速架設 Node.js 靜態網站服務](https://www.letswrite.tw/docker-node-static-site/)
 - [Windows 上，本機用 Docker 安裝 GitLab](https://www.letswrite.tw/windows-docker-gitlab/)
 - [iPhone 的語音辨識功能：語音備忘錄，自動標點分段](https://www.letswrite.tw/iphone-voice-memos/)
 - [GitHub Copilot + Figma MCP Server 實戰：用 AI 快速切版教學](https://www.letswrite.tw/github-copilot-figma-mcp/)
