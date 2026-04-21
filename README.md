@@ -2,7 +2,7 @@
 
 #### 前端工程師 August 的學習筆記 — solving problems, in simple ways.
 
-## Chrome 擴充功能
+## 🛠️ Chrome 擴充功能
 
 - [Let's Tab](https://chromewebstore.google.com/detail/lets-tab/dfhbloagbkakmpgofnocncjpkokgoeac)
 - [Let's API Pulse](https://chromewebstore.google.com/detail/lets-api-pulse/pnhndinbnbcllgnendjhfpcjbempcali)
