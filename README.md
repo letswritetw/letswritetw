@@ -2,6 +2,12 @@
 
 #### 前端工程師 August 的學習筆記 — solving problems, in simple ways.
 
+## Chrome 擴充功能
+
+- [Let's Tab](https://chromewebstore.google.com/detail/lets-tab/dfhbloagbkakmpgofnocncjpkokgoeac)
+- [Let's API Pulse](https://chromewebstore.google.com/detail/lets-api-pulse/pnhndinbnbcllgnendjhfpcjbempcali)
+- [Let's JSON](https://chromewebstore.google.com/detail/lets-json/gcbgdeakiaapdhjeoinmodehiemedimf)
+
 ## 🎉 加入社群
 
 [![Telegram](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg)](https://t.me/letswritetw)
