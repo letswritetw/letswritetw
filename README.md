@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 ## 🎖 最新文章
 
 <!-- BLOG-POST-LIST:START -->
-
+- [OpenClaw：安裝教學，在 macOS 用虛擬機 (Ubuntu) 安全部署龍蝦 AI](https://www.letswrite.tw/openclaw-install/)
+- [在本機安裝 Mattermost：打造自主控制的團隊通訊平台](https://www.letswrite.tw/mattermost/)
+- [使用 Gitea Actions 與 OpenAI 實現自動化 PR Code Review](https://www.letswrite.tw/gitea-ai-code-review/)
+- [使用 pm2-web 建立免費 PM2 監控系統](https://www.letswrite.tw/pm2-web/)
 - [使用 Docker 搭配 Node.js 快速建置 Redis 快取系統](https://www.letswrite.tw/docker-redis/)
 - [用 Docker 快速架設 Node.js 靜態網站服務](https://www.letswrite.tw/docker-node-static-site/)
 - [Windows 上，本機用 Docker 安裝 GitLab](https://www.letswrite.tw/windows-docker-gitlab/)
@@ -51,9 +54,6 @@ Here are some ideas to get you started:
 - [Vue 3、Tailwind CSS 3、esbuild、rollup.js 開發初始檔](https://www.letswrite.tw/vue-tailwind-esbuild-rollup/)
 - [用 TensorFlow.js COCO-SSD 辨識圖片物件](https://www.letswrite.tw/coco-ssd/)
 - [Windows 上，本機用 Docker 安裝 GitLab](https://www.letswrite.tw/windows-docker-gitlab/)
-- [MongoDB 學習筆記 – 用 Node.js 執行 CRUD](https://www.letswrite.tw/mongodb-node-crud/)
-- [MongoDB 學習筆記 – MongoDB Shell：CRUD 中的 Delete、Update](https://www.letswrite.tw/mongosh-delete-update/)
-- [MongoDB 學習筆記 – MongoDB Shell：CRUD 中的 Read](https://www.letswrite.tw/mongosh-find/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🥁 Github 統計
