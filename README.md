@@ -14,7 +14,7 @@
 - [叫我公主，喵喵 ^ ^](https://store.line.me/stickershop/product/35107239/zh-Hant)
 - [叫我王子，喵 ^^](https://store.line.me/stickershop/product/32801129/zh-Hant)
 
-## 🛠️ Chrome 擴充功能
+## 🛠️ 有趣功能
 
 - 臨時聊天室：<https://chat.letswrite.tw/>
 - 擴充功能：[Let's Tab](https://chromewebstore.google.com/detail/lets-tab/dfhbloagbkakmpgofnocncjpkokgoeac)
