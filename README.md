@@ -1,6 +1,6 @@
 <h1 align="center">Let's Write</h1>
 
-<h5 align="center">前端工程師 August 的學習筆記 — solving problems, in simple ways.</h5>
+<h4 align="center">前端工程師 August 的學習筆記 — solving problems, in simple ways.</h4>
 
 <div align="center" style="display: flex">
   <a href="https://t.me/letswritetw" target="_blank">
