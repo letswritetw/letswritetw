@@ -8,10 +8,6 @@
   <a href="https://dev.to/letswrite"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"></a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=letswritetw&style=flat" align="center" />
-</div>  
-
 ## 🛠️ Chrome 擴充功能
 
 - [Let's Tab](https://chromewebstore.google.com/detail/lets-tab/dfhbloagbkakmpgofnocncjpkokgoeac)
@@ -32,3 +28,7 @@
 - [使用 Gitea Actions 與 OpenAI 實現自動化 PR Code Review](https://www.letswrite.tw/gitea-ai-code-review/)
 - [使用 pm2-web 建立免費 PM2 監控系統](https://www.letswrite.tw/pm2-web/)
 - [使用 Docker 搭配 Node.js 快速建置 Redis 快取系統](https://www.letswrite.tw/docker-redis/)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=letswritetw&style=flat" align="center" />
+</p>  
