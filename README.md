@@ -10,11 +10,12 @@
 
 ## 🛠️ Chrome 擴充功能
 
-- [Let's Tab](https://chromewebstore.google.com/detail/lets-tab/dfhbloagbkakmpgofnocncjpkokgoeac)
-- [Let's Translate](https://chromewebstore.google.com/detail/lets-translate/igligkckdnmjmbjbnlhcpfjdalicahpc)
-- [Let's API Pulse](https://chromewebstore.google.com/detail/lets-api-pulse/pnhndinbnbcllgnendjhfpcjbempcali)
-- [Let's AEO](https://chromewebstore.google.com/detail/lets-aeo/ididmnckagnmioenppfmccdhgbcpeepi)
-- [Let's JSON](https://chromewebstore.google.com/detail/lets-json/gcbgdeakiaapdhjeoinmodehiemedimf)
+- 臨時聊天室：<https://chat.letswrite.tw/>
+- 擴充功能：[Let's Tab](https://chromewebstore.google.com/detail/lets-tab/dfhbloagbkakmpgofnocncjpkokgoeac)
+- 擴充功能： [Let's Translate](https://chromewebstore.google.com/detail/lets-translate/igligkckdnmjmbjbnlhcpfjdalicahpc)
+- 擴充功能：[Let's API Pulse](https://chromewebstore.google.com/detail/lets-api-pulse/pnhndinbnbcllgnendjhfpcjbempcali)
+- 擴充功能： [Let's AEO](https://chromewebstore.google.com/detail/lets-aeo/ididmnckagnmioenppfmccdhgbcpeepi)
+- 擴充功能：[Let's JSON](https://chromewebstore.google.com/detail/lets-json/gcbgdeakiaapdhjeoinmodehiemedimf)
 
 ## 👑 生活小幫手
 
