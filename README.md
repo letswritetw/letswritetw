@@ -1,6 +1,8 @@
-# Let's Write
+<h1 align="center">Let's Write</h1>
 
-#### 前端工程師 August 的學習筆記 — solving problems, in simple ways.
+<h6 align="center">前端工程師 August 的學習筆記 — solving problems, in simple ways.</h6>
+
+---
 
 ## 🛠️ Chrome 擴充功能
 
