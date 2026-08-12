@@ -20,9 +20,12 @@
 - [Let's API Pulse](https://chromewebstore.google.com/detail/lets-api-pulse/pnhndinbnbcllgnendjhfpcjbempcali)
 - [Let's JSON](https://chromewebstore.google.com/detail/lets-json/gcbgdeakiaapdhjeoinmodehiemedimf)
 
-## 👑 生活小幫手 Telegram 機器人
+## 👑 生活小幫手
 
 [![Telegram](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg)](https://t.me/lifetifulBot)
+<a href="[https://t.me/letswritetw](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg)](https://t.me/lifetifulBot)" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" />
+</a>
 
 ## 🎖 最新文章
 
