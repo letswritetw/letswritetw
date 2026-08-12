@@ -25,11 +25,11 @@
 ## 🎖 最新文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Buzz 自架教學：使用 Docker 架設 Relay 與設定 AI Agent 自動回覆](https://www.letswrite.tw/buzz-install/)
+- [Outline Wiki 自架教學（三）：Codex 串接 MCP](https://www.letswrite.tw/outline-codex-mcp/)
+- [Outline Wiki 自架教學（二）：Claude 串接 MCP](https://www.letswrite.tw/outline-claude-mcp/)
+- [Outline Wiki 自架教學（一）：Docker 安裝、Gitea OIDC 與 AI 知識庫](https://www.letswrite.tw/outline-wiki-install/)
 - [OpenClaw：安裝教學，在 macOS 用虛擬機 (Ubuntu) 安全部署龍蝦 AI](https://www.letswrite.tw/openclaw-install/)
-- [在本機安裝 Mattermost：打造自主控制的團隊通訊平台](https://www.letswrite.tw/mattermost/)
-- [使用 Gitea Actions 與 OpenAI 實現自動化 PR Code Review](https://www.letswrite.tw/gitea-ai-code-review/)
-- [使用 pm2-web 建立免費 PM2 監控系統](https://www.letswrite.tw/pm2-web/)
-- [使用 Docker 搭配 Node.js 快速建置 Redis 快取系統](https://www.letswrite.tw/docker-redis/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=letswritetw&style=flat" align="center" />
