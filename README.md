@@ -14,6 +14,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=letswritetw&&style=flat-square" align="center" />
+</div>  
+
 ## 🛠️ Chrome 擴充功能
 
 - [Let's Tab](https://chromewebstore.google.com/detail/lets-tab/dfhbloagbkakmpgofnocncjpkokgoeac)
