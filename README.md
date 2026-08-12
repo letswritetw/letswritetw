@@ -2,28 +2,17 @@
 
 <h4 align="center">前端工程師 August 的學習筆記 — solving problems, in simple ways.</h4>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/letswritetw">
-    <img
-      src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
   <a href="https://t.me/letswritetw">
-    <img
-      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
-      alt="Telegram"
-    />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-
   <a href="https://dev.to/letswrite">
-    <img
-      src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"
-      alt="DEV.to"
-    />
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>
-</div>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=letswritetw&&style=flat-square" align="center" />
