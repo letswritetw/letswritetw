@@ -3,7 +3,7 @@
 <h4 align="center">前端工程師 August 的學習筆記 — solving problems, in simple ways.</h4>
 
 <p align="center">
-  <a href="https://www.letswrite.tw/"><img src="https://img.shields.io/badge/letswrite.tw-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Let's Write"></a>
+  <a href="https://www.letswrite.tw/?utm_source=github&utm_medium=profile&utm_campaign=github_profile&utm_content=website_badge"><img src="https://img.shields.io/badge/letswrite.tw-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Let's Write"></a>
   <a href="https://github.com/letswritetw"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://t.me/letswritetw"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://dev.to/letswrite"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"></a>
@@ -18,7 +18,7 @@
 
 ## 🛠️ 有趣功能
 
-- 臨時聊天室：<https://chat.letswrite.tw/>
+- 臨時聊天室：[Let's 聊聊](https://chat.letswrite.tw/?utm_source=github&utm_medium=profile&utm_campaign=github_profile&utm_content=temp_chat)
 - 擴充功能：[Let's Tab](https://chromewebstore.google.com/detail/lets-tab/dfhbloagbkakmpgofnocncjpkokgoeac)
 - 擴充功能：[Let's Translate](https://chromewebstore.google.com/detail/lets-translate/igligkckdnmjmbjbnlhcpfjdalicahpc)
 - 擴充功能：[Let's API Pulse](https://chromewebstore.google.com/detail/lets-api-pulse/pnhndinbnbcllgnendjhfpcjbempcali)
@@ -33,11 +33,11 @@
 
 ## 🎖 最新文章
 
-- [Buzz 自架教學：使用 Docker 架設 Relay 與設定 AI Agent 自動回覆](https://www.letswrite.tw/buzz-install/)
-- [Outline Wiki 自架教學（三）：Codex 串接 MCP](https://www.letswrite.tw/outline-codex-mcp/)
-- [Outline Wiki 自架教學（二）：Claude 串接 MCP](https://www.letswrite.tw/outline-claude-mcp/)
-- [Outline Wiki 自架教學（一）：Docker 安裝、Gitea OIDC 與 AI 知識庫](https://www.letswrite.tw/outline-wiki-install/)
-- [OpenClaw：安裝教學，在 macOS 用虛擬機 (Ubuntu) 安全部署龍蝦 AI](https://www.letswrite.tw/openclaw-install/)
+- [Buzz 自架教學：使用 Docker 架設 Relay 與設定 AI Agent 自動回覆](https://www.letswrite.tw/buzz-install/?utm_source=github&utm_medium=profile&utm_campaign=github_profile&utm_content=buzz_install)
+- [Outline Wiki 自架教學（三）：Codex 串接 MCP](https://www.letswrite.tw/outline-codex-mcp/?utm_source=github&utm_medium=profile&utm_campaign=github_profile&utm_content=outline_codex_mcp)
+- [Outline Wiki 自架教學（二）：Claude 串接 MCP](https://www.letswrite.tw/outline-claude-mcp/?utm_source=github&utm_medium=profile&utm_campaign=github_profile&utm_content=outline_claude_mcp)
+- [Outline Wiki 自架教學（一）：Docker 安裝、Gitea OIDC 與 AI 知識庫](https://www.letswrite.tw/outline-wiki-install/?utm_source=github&utm_medium=profile&utm_campaign=github_profile&utm_content=outline_wiki_install)
+- [OpenClaw：安裝教學，在 macOS 用虛擬機 (Ubuntu) 安全部署龍蝦 AI](https://www.letswrite.tw/openclaw-install/?utm_source=github&utm_medium=profile&utm_campaign=github_profile&utm_content=openclaw_install)
 
 ---
 
