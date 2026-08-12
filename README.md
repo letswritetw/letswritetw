@@ -3,9 +3,9 @@
 <h4 align="center">前端工程師 August 的學習筆記 — solving problems, in simple ways.</h4>
 
 <p align="center">
-  <a href="https://github.com/letswritetw"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://t.me/letswritetw"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://dev.to/letswrite"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"></a>
+  <a target="_blank href="https://github.com/letswritetw"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a target="_blank href="https://t.me/letswritetw"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a target="_blank href="https://dev.to/letswrite"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"></a>
 </p>
 
 ## 😸 LINE 貼圖
@@ -25,7 +25,7 @@
 
 ## 👑 生活小幫手
 
-<a href="[https://t.me/letswritetw](https://raw.githubusercontent.com/letswritetw/letswritetw/master/dist/img/telegram.svg)](https://t.me/lifetifulBot)" target="_blank">
+<a href="https://t.me/lifetifulBot" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" />
 </a>
 
